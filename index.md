@@ -232,7 +232,7 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
 ## Článek 9 Republikový výbor
 
-1) Republikový výbor plní úkoly republikového sněmu v době, kdy nezasedá.
+1) republikový výbor plní v době, kdy republikový sněm nezasedá, ty úkoly sněmu, které nemá sněm ve své výlučné pravomoci.
 
 2) Republikový výbor se skládá z republikového předsednictva, z předsedů krajských sdružení a ze třiceti členů volených republikovým sněmem v přímé tajné jednokolové volbě.
 
