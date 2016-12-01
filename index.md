@@ -6,7 +6,7 @@
 
 2) Strana je registrována podle zákona č. 424/1991 Sb., o sdružování v politických stranách a v politických hnutích ve znění pozdějších předpisů a působí v České republice.
 
-3) Sídlem politické strany je Tržiště 1, 118 00 Praha 1, Malá Strana.
+3) Sídlem politické strany je Praha, Perucká 2196/14, 120 00 Praha 2.
 
 ## Článek 2 Poslání a základní programové cíle
 
@@ -64,7 +64,7 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
 2) Překážkou členství a důvodem k jeho ukončení je členství v jiné politické straně nebo hnutí, uvedení nepravdivých informací zejména na přihlášce, nesplnění některých předpokladů pro výkon funkcí ve státních orgánech (zákon č. 451/1991 Sb., lustrační zákon), kandidatura na veřejnou funkci bez souhlasu příslušného orgánu strany.
 
-3) Vyplněná a podepsaná přihláška se podává v krajském sdružení podle aktivního volebního práva člena. O přijetí za člena rozhoduje krajské předsednictvo zpravidla za přítomnosti žadatele, členství vzniká po zaplacení členského příspěvku.
+3) Vyplněná a podepsaná přihláška se podává územně příslušnému krajskému předsednictvu. O přijetí za člena rozhoduje krajské předsednictvo zpravidla za přítomnosti žadatele, členství vzniká po zaplacení členského příspěvku.
 
 4) Člen krajského sdružení může hostovat v jiném krajském sdružení.
 
@@ -82,7 +82,7 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
   f) úmrtím.
 
-6) Zánik členství bere na vědomí předsednictvo příslušného krajského sdružení, nestane-li se tak, republikové předsednictvo. Není-li uvedeno jinak, zaniká členství dnem vzetí na vědomí.
+6) Zánik členství bere na vědomí příslušné krajské předsednictvo, nestane-li se tak, republikové předsednictvo. Není-li uvedeno jinak, zaniká členství dnem vzetí na vědomí.
 
 7) Člen má právo:
 
@@ -128,9 +128,7 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
 ## Článek 5 Organizační jednotky a orgány
 
-1) Krajská sdružení sdružují členy na územním principu.
-
-2) Orgány strany jsou republikový sněm, republikový výbor, republikové předsednictvo, rozhodčí komise, kontrolní komise, volební komise, v krajských sdruženích krajský sněm a krajské předsednictvo.
+1) Orgány strany jsou republikový sněm, republikový výbor, republikové předsednictvo, rozhodčí komise, kontrolní komise, volební komise, v krajských sdruženích krajský sněm a krajské předsednictvo.
 
 ## Článek 6 Obecné zásady
 
@@ -152,15 +150,17 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
 4) O personálních otázkách se zpravidla hlasuje tajně. Vždy se hlasuje tajně, pokud o to požádá kterýkoli člen.
 
-5) Volební období organizačních jednotek strany a všech volených funkcí je dvouleté. Volební období začíná ukončením volební schůze nebo vyhlášením výsledků volby. Volební období republikového předsednictva strany kromě toho končí vždy nejdéle tři měsíce po volbách do Poslanecké sněmovny Parlamentu.
+5) Volební období všech volených funkcí je dvouleté. Volební období začíná ukončením volební schůze nebo vyhlášením výsledků volby. Volební období republikového předsednictva strany kromě toho končí vždy nejdéle tři měsíce po volbách do Poslanecké sněmovny Parlamentu.
 
 6) Každý člen může zastávat pouze jednu volenou funkci v organizačních jednotkách strany.
 
+7) Nesvolá-li z jakéhokoli důvodu předseda strany republikový sněm, svolá předseda rozhodčí komise do 14 dnů republikový výbor, který schválí pravidla dalšího postupu. Nesvolá-li krajské předsednictvo krajský sněm, rozhodne republikové předsednictvo o svolání příslušného krajského sněmu, který do 14 dnů svolá předseda strany. Neplní-li z jakéhokoli důvodu krajské předsednictvo své úkoly, může pravomoci podle čl. 7 odst. 4 písm. f), h) a i) vykonávat republikové předsednictvo.
+
 ## Článek 7 Krajská sdružení
 
-1) Krajské sdružení se vytváří na územním principu. Orgánem krajského sdružení je krajský sněm a krajské předsednictvo.
+1) Krajská sdružení sdružují členy na územním principu. Každý člen přísluší ke krajskému sdružení, v jehož územním obvodu má aktivní volební právo do Poslanecké sněmovny podle platných zákonů.
 
-2) Každý člen podle svého volebního práva přísluší ke krajskému sdružení, v jehož územním obvodu má aktivní volební právo do Poslanecké sněmovny podle platných zákonů.
+2) Orgány krajského sdružení jsou krajský sněm a krajské předsednictvo.
 
 3) Krajského sněmu se má právo zúčastnit každý člen krajského sdružení. Krajský sněm:
 
@@ -198,7 +198,7 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
 3) Republikový sněm svolává předseda strany nejméně jedenkrát za rok.
 
-4) Do dvou měsíců svolá republikový sněm předseda strany, pokud jej o to požádá předsednictvo strany, republikový výbor, nebo alespoň jedna třetina členů strany.
+4) Do dvou měsíců svolá republikový sněm předseda strany, pokud jej o to požádá republikové předsednictvo, republikový výbor, nebo alespoň jedna třetina členů strany.
 
 5) Republikový sněm ve výlučné působnosti:
 
@@ -220,7 +220,7 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
   i) projednává a schvaluje výroční zprávu kontrolní komise,
 
-  j) bere na vědomí výroční zprávu rozhodčího výboru.
+  j) bere na vědomí výroční zprávu rozhodčího komise.
 
 6) Republikový sněm dále:
 
@@ -234,7 +234,7 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
 1) Republikový výbor plní úkoly republikového sněmu v době, kdy nezasedá.
 
-2) Republikový výbor se skládá z předsednictva strany, z předsedů krajských sdružení a ze třiceti členů volených republikovým sněmem v přímé tajné jednokolové volbě.
+2) Republikový výbor se skládá z republikového předsednictva, z předsedů krajských sdružení a ze třiceti členů volených republikovým sněmem v přímé tajné jednokolové volbě.
 
 3) Předseda strany svolává republikový výbor podle potřeby, nejméně však jednou za tři měsíce.
 
@@ -286,28 +286,26 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
   f) předkládá republikovému výboru vlastní návrhy týkající se činnosti strany,
 
-  g) může vyhlásit nové volby předsednictva krajského sdružení.
+  g) může vyhlásit nové volby krajského předsednictva.
 
-3) Členové předsednictva strany mají právo zúčastnit se jednání všech organizačních jednotek strany s hlasem poradním.
+3) Členové republikového předsednictva mají právo zúčastnit se jednání všech organizačních jednotek strany s hlasem poradním.
 
-4) Jednání předsednictva strany může být vyhlášeno za uzavřené.
+4) Jednání republikového předsednictva může být vyhlášeno za uzavřené.
 
 ## Článek 11 Předseda strany
 
-1) Předseda strany jedná a činí právní úkony za stranu navenek.
-
-2) Předseda svolává republikový sněm, výbor, předsednictvo strany a předsedá jim.
+1) Předseda svolává republikový sněm, výbor, republikové předsednictvo a předsedá jim.
 
 ## Článek 12 Místopředsedové strany
 
-Místopředsedové zastupují předsedu strany ve stanoveném pořadí. Vykonávají funkce na základě pověření předsedou strany, předsednictvem strany nebo republikovým výborem.
+Místopředsedové zastupují předsedu strany ve stanoveném pořadí. Vykonávají funkce na základě pověření předsedou strany, republikovým předsednictvem nebo republikovým výborem.
 
 ## Článek 13 Kontrolní komise
 
 1) Kontrolní komise je kontrolním orgánem strany, dohlíží na hospodaření a dodržování obecně závazných
 právních předpisů a stanov.
 
-2) Může navrhnout rozhodčí komisi pozastavení rozhodnutí předsednictva strany, nebo republikového výboru, pokud jsou v rozporu s obecně závaznými právními předpisy či stanovami strany.
+2) Může navrhnout rozhodčímu výboru pozastavení rozhodnutí republikového předsednictva, nebo republikového výboru, pokud jsou v rozporu s obecně závaznými právními předpisy či stanovami strany.
 
 3) Členové kontrolní komise ze svého středu volí předsedu a místopředsedu komise.
 
@@ -317,7 +315,7 @@ právních předpisů a stanov.
 
 ## Článek 14 Rozhodčí komise
 
-1) Rozhodčí komise odpovídá za závazný výklad stanov a rozhoduje ve sporech mezi členy navzájem, resp. mezi členy a organizačními jednotkami strany.
+1) Rozhodčí komise odpovídá za závazný výklad stanov a rozhoduje ve sporech mezi členy navzájem.
 
 2) Členové volí ze svého středu předsedu a místopředsedu rozhodčí komise.
 
@@ -343,7 +341,7 @@ právních předpisů a stanov.
 
 3) Členové komise volí ze svého středu předsedu a místopředsedu volební komise.
 
-## Článek 16 Jednání jménem strany a zastupování při právních úkonech
+## Článek 16 Jednání a zastupování při právních úkonech
 
 1) Právní úkony jménem strany činí předseda, v jeho nepřítomnosti místopředseda pověřený předsednictvem. Při podepisování jménem strany k vytištěnému nebo předepsanému názvu strany a jménu jednajícího připojí jednající osoba vlastnoruční podpis s uvedením své funkce ve straně.
 
@@ -353,7 +351,7 @@ právních předpisů a stanov.
 
 1) Strana odpovídá za své závazky celým svým majetkem.
 
-2) Strana nakládá s majetkem a vede svoje účetnictví v souladu s příslušnými ustanoveními obecně závazných právních předpisů. S majetkem strany hospodaří na základě schváleného rozpočtu a schválených rozpočtových pravidel strany předsednictvo strany. Vnitřní předpisy mohou tuto pravomoc delegovat na organizační jednotky strany.
+2) Strana nakládá s majetkem a vede svoje účetnictví v souladu s příslušnými ustanoveními obecně závazných právních předpisů. S majetkem strany hospodaří na základě schváleného rozpočtu a schválených rozpočtových pravidel strany republikové předsednictvo. Vnitřní předpisy mohou tuto pravomoc delegovat na organizační jednotky strany.
 
 3) Rozpočet strany, jeho změny v průběhu roku a výsledky hospodaření schvaluje republikový výbor.
 
@@ -364,32 +362,4 @@ V případě zániku strany rozhodne republikový výbor o způsobu naložení s
 ## Článek 19 Republiková kancelář
 
 Republiková kancelář zajišťuje administrativní a organizační záležitosti strany a vede evidenci osobních dat. Podrobnosti stanoví organizační řád.
-
-## Článek 20 Přechodná a závěrečná ustanovení
-
-1) Přípravný výbor sestávající z osob předkládajících návrh na registraci strany dle zákona č. 424/1991 Sb., o sdružování v politických stranách a v politických hnutích v platném znění:
-
-  a) plní úkoly republikového předsednictva a republikového výboru do ukončení ustavujícího republikového sněmu,
-
-  b) z občanů, kteří se aktivně podíleli na založení strany a kteří mají zájem stát se členy strany, sestaví seznam členů - účastníků ustavujícího republikového sněmu,
-
-  c) svolá ustavující republikový sněm.
-
-2) Podrobnosti o svolávání republikového sněmu a přiměřené lhůty stanoví přípravný výbor v návrhu
-jednacího řádu republikového sněmu, který se použije pro jeho první svolání.
-
-3) Předsednictvo zvolené na ustavujícím sněmu v roce 2009:
-
-  a) svolává ustavující sněmy krajských sdružení,
-
-  b) může vydat zvláštní pravidla pro ustavení organizačních jednotek podle stanov,
-
-  c) rozhoduje o členství a plní další úkoly krajského předsednictva do ustavení krajských sdružení.
-
-4) Pro volby v roce 2009 mohou být pro sestavení kandidátky použita odchylná pravidla, základní principy se použijí podle možností přiměřeně.
-
-5) Odchylně od čl. 8 odst. 5 volí ustavující sněm na období do příštího Sněmu 3 členy kontrolní komise, 3 členy volební komise a nanejvýš 30 členů republikového výboru.
-
-6) Odchylně od čl. 6 odst. 6 může být do prvního sněmu slučitelná funkce člena předsednictva krajského sdružení a člena republikového výboru a předsednictva.
-
 14. 2. 2009
