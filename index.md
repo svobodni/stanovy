@@ -304,7 +304,7 @@ Místopředsedové zastupují předsedu strany ve stanoveném pořadí. Vykonáv
 
 1) Kontrolní komise je kontrolním orgánem strany, dohlíží na hospodaření a dodržování obecně závazných právních předpisů a stanov.
 
-2) Může navrhnout rozhodčímu výboru pozastavení rozhodnutí republikového předsednictva, nebo republikového výboru, pokud jsou v rozporu s obecně závaznými právními předpisy či stanovami strany.
+2) Může navrhnout rozhodčí komisi pozastavení rozhodnutí republikového předsednictva, nebo republikového výboru, pokud jsou v rozporu s obecně závaznými právními předpisy či stanovami strany.
 
 3) Členové kontrolní komise ze svého středu volí předsedu a místopředsedu komise.
 
