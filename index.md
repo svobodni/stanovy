@@ -82,7 +82,7 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
   f) úmrtím.
 
-6) Zánik členství bere na vědomí příslušné krajské předsednictvo, nestane-li se tak, republikové předsednictvo. Není-li uvedeno jinak, zaniká členství dnem vzetí na vědomí.
+6) Zánik členství bere na vědomí příslušné krajské předsednictvo, nestane-li se tak, Republikové předsednictvo. Není-li uvedeno jinak, zaniká členství dnem vzetí na vědomí.
 
 7) Člen má právo:
 
@@ -98,7 +98,7 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
   f) být navržen za kandidáta pro volby do veřejných funkcí, kandidatura může vyžadovat splnění dalších kritérií, jako například získání podpory stanoveného počtu členů Strany svobodných občanů,
 
-  g) obracet se na rozhodčí komisi v případě sporu a podávat návrh na vyloučení rozhodčí komisi.
+  g) obracet se na Rozhodčí komisi v případě sporu a podávat návrh na vyloučení Rozhodčí komisi.
 
 8) Člen je povinen:
 
@@ -128,7 +128,7 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
 ## Článek 5 Organizační jednotky a orgány
 
-1) Orgány strany jsou republikový sněm, republikový výbor, republikové předsednictvo, rozhodčí komise, kontrolní komise, volební komise, v krajských sdruženích krajský sněm a krajské předsednictvo.
+1) Orgány strany jsou republikový sněm, Republikový výbor, Republikové předsednictvo, Rozhodčí komise, Kontrolní komise, Volební komise, v krajských sdruženích krajský sněm a krajské předsednictvo.
 
 ## Článek 6 Obecné zásady
 
@@ -138,7 +138,7 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
   a) Orgány strany s výjimkou republikového a krajského sněmu jsou usnášeníschopné za přítomnosti nadpoloviční většiny členů a mohou v takovém případě rozhodovat nadpoloviční většinou hlasujících; na program nelze zařazovat nové body, které nebyly uvedeny na pozvánce.
 
-  b) Republikový výbor, republikové předsednictvo, krajské předsednictvo, rozhodčí komise, kontrolní komise a Volební komise mohou rozhodovat také elektronicky s prodlouženou dobou hlasování tak, aby bylo umožněno hlasování všem, kdo mají právo hlasovat; má se za to, že ten, kdo nehlasoval, s návrhem nesouhlasí. Usnesení je přijato, pokud je podpoří nadpoloviční většina ze všech, kdo jsou oprávněni hlasovat.
+  b) Republikový výbor, Republikové předsednictvo, krajské předsednictvo, Rozhodčí komise, Kontrolní komise a Volební komise mohou rozhodovat také elektronicky s prodlouženou dobou hlasování tak, aby bylo umožněno hlasování všem, kdo mají právo hlasovat; má se za to, že ten, kdo nehlasoval, s návrhem nesouhlasí. Usnesení je přijato, pokud je podpoří nadpoloviční většina ze všech, kdo jsou oprávněni hlasovat.
 
   c) Republikový a krajský sněm je usnášeníschopný za jakéhokoliv počtu přítomných; na program nelze zařazovat nové body, které nebyly uvedeny na pozvánce. Na republikovém a krajském sněmu se může rozhodovat o procedurálních otázkách nadpoloviční většinou z hlasujících, o zásadních otázkách sněm rozhoduje elektronicky s prodlouženou dobou hlasování; usnesení je přijato, pokud jej podpoří nadpoloviční většina hlasujících. Elektronické hlasování má platnost rozhodnutí sněmu.
 
@@ -146,15 +146,15 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
   a) Volby se konají elektronicky (korespondenčně) s prodlouženou dobou hlasování tak, aby bylo umožněno hlasování všem, kdo mají právo hlasovat. Zvoleni jsou ti, kdo získali nejvyšší počet odevzdaných platných hlasů bez ohledu na počet hlasujících. Je-li počet kandidátů menší nebo roven počtu volených, hlasuje se o každém kandidátovi zvlášť „pro návrh“ a „proti návrhu“, v takovém případě je kandidát zvolen, pokud variantu „pro návrh“ podpoří více hlasujících.
 
-  b) Volba předsedy rozhodčí, kontrolní a volební komise se může konat podle odst. 2 písm. a).
+  b) Volba předsedy Rozhodčí, Kontrolní a Volební komise se může konat podle odst. 2 písm. a).
 
 4) O personálních otázkách se zpravidla hlasuje tajně. Vždy se hlasuje tajně, pokud o to požádá kterýkoli člen.
 
-5) Volební období všech volených funkcí je dvouleté. Volební období začíná dnem, kdy se mandát uvolní, nebo vyhlášením výsledků volby. Volební období republikového předsednictva strany kromě toho končí vždy nejdéle tři měsíce po volbách do Poslanecké sněmovny Parlamentu. Volby se vyhlašují tak, aby se konaly v průběhu posledních dvou měsíců trvání mandátu nebo po uvolnění mandátu.
+5) Volební období všech volených funkcí je dvouleté. Volební období začíná dnem, kdy se mandát uvolní, nebo vyhlášením výsledků volby. Volební období Republikového předsednictva strany kromě toho končí vždy nejdéle tři měsíce po volbách do Poslanecké sněmovny Parlamentu. Volby se vyhlašují tak, aby se konaly v průběhu posledních dvou měsíců trvání mandátu nebo po uvolnění mandátu.
 
 6) Každý člen může zastávat pouze jednu volenou funkci v organizačních jednotkách strany.
 
-7) Nesvolá-li z jakéhokoli důvodu předseda strany republikový sněm, svolá předseda rozhodčí komise do 14 dnů republikový výbor, který schválí pravidla dalšího postupu. Nesvolá-li krajské předsednictvo krajský sněm, rozhodne republikové předsednictvo o svolání příslušného krajského sněmu, který do 14 dnů svolá předseda strany. Neplní-li z jakéhokoli důvodu krajské předsednictvo své úkoly, může pravomoci podle čl. 7 odst. 4 písm. f), h) a i) vykonávat republikové předsednictvo.
+7) Nesvolá-li z jakéhokoli důvodu předseda strany republikový sněm, svolá předseda Rozhodčí komise do 14 dnů Republikový výbor, který schválí pravidla dalšího postupu. Nesvolá-li krajské předsednictvo krajský sněm, rozhodne Republikové předsednictvo o svolání příslušného krajského sněmu, který do 14 dnů svolá předseda strany. Neplní-li z jakéhokoli důvodu krajské předsednictvo své úkoly, může pravomoci podle čl. 7 odst. 4 písm. f), h) a i) vykonávat Republikové předsednictvo.
 
 ## Článek 7 Krajská sdružení
 
@@ -194,23 +194,23 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
 1) Republikový sněm je nejvyšším orgánem strany.
 
-2) Rozhodování na republikovém sněmu se podle možností zúčastní každý člen strany. Není-li to možné, stanoví republikový výbor přiměřený klíč.
+2) Rozhodování na republikovém sněmu se podle možností zúčastní každý člen strany. Není-li to možné, stanoví Republikový výbor přiměřený klíč.
 
 3) Republikový sněm svolává předseda strany nejméně jedenkrát za rok.
 
-4) Do dvou měsíců svolá republikový sněm předseda strany, pokud jej o to požádá republikové předsednictvo, republikový výbor, nebo alespoň jedna třetina členů strany.
+4) Do dvou měsíců svolá republikový sněm předseda strany, pokud jej o to požádá Republikové předsednictvo, Republikový výbor, nebo alespoň jedna třetina členů strany.
 
 5) Republikový sněm ve výlučné působnosti:
 
   a) volí a odvolává předsedu a čtyři místopředsedy strany v přímé tajné jednokolové volbě za účasti všech členů strany,
 
-  b) volí a odvolává sedm členů kontrolní komise,
+  b) volí a odvolává sedm členů Kontrolní komise,
 
-  c) volí a odvolává sedm členů rozhodčí komise,
+  c) volí a odvolává sedm členů Rozhodčí komise,
 
-  d) volí a odvolává sedm členů volební komise,
+  d) volí a odvolává sedm členů Volební komise,
 
-  e) volí a odvolává třicet členů republikového výboru
+  e) volí a odvolává třicet členů Republikového výboru
 
   f) schvaluje změny stanov,
 
@@ -218,33 +218,34 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
   h) projednává a schvaluje výroční zprávu o hospodaření strany,
 
-  i) projednává a schvaluje výroční zprávu kontrolní komise,
+  i) projednává a schvaluje výroční zprávu Kontrolní komise,
 
-  j) bere na vědomí výroční zprávu rozhodčího komise.
+  j) bere na vědomí výroční zprávu Rozhodčí komise.
 
 6) Republikový sněm dále:
 
   a) schvaluje další předpisy k úpravě vnitrostranických poměrů,
 
-  b) ukládá úkoly republikovému předsednictvu a výboru,
+  b) ukládá úkoly Republikovému předsednictvu a výboru,
 
   c) může projednávat a schvalovat základní programové a ideové dokumenty.
 
+
 ## Článek 9 Republikový výbor
 
-1) republikový výbor plní v době, kdy republikový sněm nezasedá, ty úkoly sněmu, které nemá sněm ve své výlučné pravomoci.
+1) Republikový výbor plní v době, kdy republikový sněm nezasedá, ty úkoly sněmu, které nemá sněm ve své výlučné pravomoci.
 
-2) Republikový výbor se skládá z republikového předsednictva, z předsedů krajských sdružení a ze třiceti členů volených republikovým sněmem v přímé tajné jednokolové volbě.
+2) Republikový výbor se skládá z Republikového předsednictva, z předsedů krajských sdružení a ze třiceti členů volených republikovým sněmem v přímé tajné jednokolové volbě.
 
-3) Předseda strany svolává republikový výbor podle potřeby, nejméně však jednou za tři měsíce.
+3) Předseda strany svolává Republikový výbor podle potřeby, nejméně však jednou za tři měsíce.
 
-4) Předseda strany svolá republikový výbor do 14 dnů, požádá-li jej o to písemně nejméně třetina členů výboru.
+4) Předseda strany svolá Republikový výbor do 14 dnů, požádá-li jej o to písemně nejméně třetina členů výboru.
 
 5) Republikový výbor zejména:
 
   a) stanoví výši členských příspěvků a příspěvků příznivců a lhůty pro zaplacení,
 
-  b) schvaluje statut kontrolní komise a statut rozhodčí komise,
+  b) schvaluje statut Kontrolní komise a statut Rozhodčí komise,
 
   c) schvaluje rozpočtová pravidla, pravidla hospodaření, rozpočet strany, výsledky hospodaření,
 
@@ -254,7 +255,7 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
   f) může schválit vzorové jednací a volební řády,
 
-  g) projednává odvolání proti rozhodnutí rozhodčí komise,
+  g) projednává odvolání proti rozhodnutí Rozhodčí komise,
 
   h) ukládá úkoly předsednictvu,
 
@@ -276,39 +277,39 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
   a) je statutárním a výkonným orgánem strany,
 
-  b) jménem republikového předsednictva jedná navenek předseda strany, v případě jeho nepřítomnosti další pověřený člen předsednictva. Písemné úkony podepisuje předseda strany, nebo jiný pověřený člen předsednictva.
+  b) jménem Republikového předsednictva jedná navenek předseda strany, v případě jeho nepřítomnosti další pověřený člen předsednictva. Písemné úkony podepisuje předseda strany, nebo jiný pověřený člen předsednictva.
 
-  c) má všeobecnou odpovědnost za stranu a za politické záležitosti mezi zasedáními republikového výboru,
+  c) má všeobecnou odpovědnost za stranu a za politické záležitosti mezi zasedáními Republikového výboru,
 
-  d) plní usnesení republikového výboru a republikového sněmu,
+  d) plní usnesení Republikového výboru a Republikového sněmu,
 
   e) schází se podle potřeby, sejde se vždy, požádá-li o to kterýkoli člen předsednictva,
 
-  f) předkládá republikovému výboru vlastní návrhy týkající se činnosti strany,
+  f) předkládá Republikovému výboru vlastní návrhy týkající se činnosti strany,
 
   g) může vyhlásit nové volby krajského předsednictva.
 
-3) Členové republikového předsednictva mají právo zúčastnit se jednání všech organizačních jednotek strany s hlasem poradním.
+3) Členové Republikového předsednictva mají právo zúčastnit se jednání všech organizačních jednotek strany s hlasem poradním.
 
-4) Jednání republikového předsednictva může být vyhlášeno za uzavřené.
+4) Jednání Republikového předsednictva může být vyhlášeno za uzavřené.
 
 ## Článek 11 Předseda strany
 
-1) Předseda svolává republikový sněm, výbor, republikové předsednictvo a předsedá jim.
+1) Předseda svolává republikový sněm, výbor, Republikové předsednictvo a předsedá jim.
 
 ## Článek 12 Místopředsedové strany
 
-Místopředsedové zastupují předsedu strany ve stanoveném pořadí. Vykonávají funkce na základě pověření předsedou strany, republikovým předsednictvem nebo republikovým výborem.
+Místopředsedové zastupují předsedu strany ve stanoveném pořadí. Vykonávají funkce na základě pověření předsedou strany, Republikovým předsednictvem nebo Republikovým výborem.
 
 ## Článek 13 Kontrolní komise
 
 1) Kontrolní komise je kontrolním orgánem strany, dohlíží na hospodaření a dodržování obecně závazných právních předpisů a stanov.
 
-2) Může navrhnout rozhodčí komisi pozastavení rozhodnutí republikového předsednictva, nebo republikového výboru, pokud jsou v rozporu s obecně závaznými právními předpisy či stanovami strany.
+2) Může navrhnout Rozhodčí komisi pozastavení rozhodnutí Republikového předsednictva, nebo Republikového výboru, pokud jsou v rozporu s obecně závaznými právními předpisy či stanovami strany.
 
-3) Členové kontrolní komise ze svého středu volí předsedu a místopředsedu komise.
+3) Členové Kontrolní komise ze svého středu volí předsedu a místopředsedu komise.
 
-4) Kontrolní komise se řídí při výkonu své činnosti statutem schváleným republikovým výborem
+4) Kontrolní komise se řídí při výkonu své činnosti statutem schváleným Republikovým výborem.
 
 5) Kontrolní komise schvaluje svůj jednací řád.
 
@@ -316,9 +317,9 @@ Místopředsedové zastupují předsedu strany ve stanoveném pořadí. Vykonáv
 
 1) Rozhodčí komise odpovídá za závazný výklad stanov a rozhoduje ve sporech mezi členy navzájem.
 
-2) Členové volí ze svého středu předsedu a místopředsedu rozhodčí komise.
+2) Členové volí ze svého středu předsedu a místopředsedu Rozhodčí komise.
 
-3) Rozhodčí komise se řídí statutem, který schvaluje republikový výbor.
+3) Rozhodčí komise se řídí statutem, který schvaluje Republikový výbor.
 
 4) Rozhodčí komise:
 
@@ -328,9 +329,9 @@ Místopředsedové zastupují předsedu strany ve stanoveném pořadí. Vykonáv
 
   c) při projednávání sporných záležitostí vždy vyslechne dotčené osoby a organizační jednotky,
 
-  d) může pozastavit platnost rozhodnutí organizační jednotky, které je v rozporu s obecně závaznými právními předpisy nebo stanovami; vyzve dotčenou jednotku k nápravě, není-li nápravy dosaženo, rozhoduje s konečnou platností republikový výbor,
+  d) může pozastavit platnost rozhodnutí organizační jednotky, které je v rozporu s obecně závaznými právními předpisy nebo stanovami; vyzve dotčenou jednotku k nápravě, není-li nápravy dosaženo, rozhoduje s konečnou platností Republikový výbor,
 
-  e) rozhoduje o návrhu na vyloučení člena, který může podat kterýkoli člen strany; proti rozhodnutí je možné se odvolat k republikovému výboru.
+  e) rozhoduje o návrhu na vyloučení člena, který může podat kterýkoli člen strany; proti rozhodnutí je možné se odvolat k Republikovému výboru.
 
 ## Článek 15 Volební komise
 
@@ -338,7 +339,7 @@ Místopředsedové zastupují předsedu strany ve stanoveném pořadí. Vykonáv
 
 2) Volební komise postupuje podle schváleného volebního řádu.
 
-3) Členové komise volí ze svého středu předsedu a místopředsedu volební komise.
+3) Členové komise volí ze svého středu předsedu a místopředsedu Volební komise.
 
 ## Článek 16 Jednání a zastupování při právních úkonech
 
@@ -350,13 +351,13 @@ Místopředsedové zastupují předsedu strany ve stanoveném pořadí. Vykonáv
 
 1) Strana odpovídá za své závazky celým svým majetkem.
 
-2) Strana nakládá s majetkem a vede svoje účetnictví v souladu s příslušnými ustanoveními obecně závazných právních předpisů. S majetkem strany hospodaří na základě schváleného rozpočtu a schválených rozpočtových pravidel strany republikové předsednictvo. Vnitřní předpisy mohou tuto pravomoc delegovat na organizační jednotky strany.
+2) Strana nakládá s majetkem a vede svoje účetnictví v souladu s příslušnými ustanoveními obecně závazných právních předpisů. S majetkem strany hospodaří na základě schváleného rozpočtu a schválených rozpočtových pravidel strany Republikové předsednictvo. Vnitřní předpisy mohou tuto pravomoc delegovat na organizační jednotky strany.
 
-3) Rozpočet strany, jeho změny v průběhu roku a výsledky hospodaření schvaluje republikový výbor.
+3) Rozpočet strany, jeho změny v průběhu roku a výsledky hospodaření schvaluje Republikový výbor.
 
 ## Článek 18 Ukončení činnosti
 
-V případě zániku strany rozhodne republikový výbor o způsobu naložení s majetkovým zůstatkem, který vznikne z likvidace majetku a závazků, nejde-li o případ daný ustanovením § 13 odst. 7 zákona č. 424/1991 Sb. o sdružování v politických stranách a v politických hnutích ve znění pozdějších předpisů. Nebude-li přijato žádné rozhodnutí o způsobu naložení s majetkovým zůstatkem, připadá tento státu.
+V případě zániku strany rozhodne Republikový výbor o způsobu naložení s majetkovým zůstatkem, který vznikne z likvidace majetku a závazků, nejde-li o případ daný ustanovením § 13 odst. 7 zákona č. 424/1991 Sb. o sdružování v politických stranách a v politických hnutích ve znění pozdějších předpisů. Nebude-li přijato žádné rozhodnutí o způsobu naložení s majetkovým zůstatkem, připadá tento státu.
 
 ## Článek 19 Republiková kancelář
 
