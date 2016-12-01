@@ -26,7 +26,7 @@ e) Součástí svobody je odpovědnost.
 
 ### 2) Tradice
 
-Strana svobodných občanů se hlásí k duchovnímu, kulturnímu a politickému dědictví západní civilizace, navazuje na tradice české státnosti a na vytrvalé úsilí o získání svobody reprezentované Františkem Palackým, Karlem Havlíčkem Borovským, Tomášem G. Masarykem a dalšími.
+Strana svobodných občanů se hlásí k duchovnímu, kulturnímu a politickému dědictví západní civilizace.
 
 ### 3) Pravidla, principy, právo
 
