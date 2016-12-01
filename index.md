@@ -76,7 +76,7 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
   b) písemným prohlášením s uvedením dne ukončení členství, členství nelze ukončit se zpětnou platností,
 
-  c) vyloučením v případě závažného porušení stanov či opakovaného poškození dobrého jména strany, za závažné poškození dobrého jména strany se může považovat jednání, které odporuje pravidlům férové svobodné soutěže; za závažné porušení stanov se považuje rovněž činnost či projevy, které jsou v rozporu s čl. 2 bod 1) stanov,
+  c) vyloučením v případě závažného porušení stanov či opakovaného nebo závažného poškození dobrého jména strany, za závažné porušení stanov se může považovat jednání, které odporuje pravidlům férové svobodné soutěže; za závažné porušení stanov se považuje rovněž činnost či projevy, které jsou v rozporu s čl. 2 bod 1) stanov,
 
   d) vznikem překážky členství podle odst. 2),
 
