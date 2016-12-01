@@ -136,11 +136,11 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
 2) Usnášeníschopnost a hlasování
 
-  a) Orgány strany jsou usnášeníschopné za přítomnosti nadpoloviční většiny členů a mohou rozhodovat nadpoloviční většinou přítomných členů.
+  a) Orgány strany s výjimkou republikového a krajského sněmu jsou usnášeníschopné za přítomnosti nadpoloviční většiny členů a mohou v takovém případě rozhodovat nadpoloviční většinou hlasujících; na program nelze zařazovat nové body, které nebyly uvedeny na pozvánce.
 
-  b) Republikový výbor, republikové předsednictvo, krajské předsednictvo, rozhodčí komise, kontrolní komise a volební komise rozhodují o zásadních otázkách elektronicky (korespondenčně) s prodlouženou dobou hlasování (per rollam) tak, aby bylo umožněno hlasování všem, kdo mají právo hlasovat; má se za to, že ten, kdo nehlasoval, s návrhem nesouhlasí. Usnesení je přijato, pokud je podpoří nadpoloviční většina ze všech, kdo jsou oprávněni hlasovat.
+  b) Republikový výbor, republikové předsednictvo, krajské předsednictvo, rozhodčí komise, kontrolní komise a Volební komise mohou rozhodovat také elektronicky s prodlouženou dobou hlasování tak, aby bylo umožněno hlasování všem, kdo mají právo hlasovat; má se za to, že ten, kdo nehlasoval, s návrhem nesouhlasí. Usnesení je přijato, pokud je podpoří nadpoloviční většina ze všech, kdo jsou oprávněni hlasovat.
 
-  c) Republikový a krajský sněm je usnášeníschopný za jakéhokoliv počtu přítomných; na program nelze zařazovat nové body, které nebyly uvedeny na pozvánce. Na republikovém a krajském sněmu se může rozhodovat o procedurálních otázkách nadpoloviční většinou z přítomných, o zásadních otázkách sněm rozhoduje elektronicky (korespondenčně) s prodlouženou dobou hlasování; usnesení je přijato, pokud jej podpoří nadpoloviční většina hlasujících.
+  c) Republikový a krajský sněm je usnášeníschopný za jakéhokoliv počtu přítomných; na program nelze zařazovat nové body, které nebyly uvedeny na pozvánce. Na republikovém a krajském sněmu se může rozhodovat o procedurálních otázkách nadpoloviční většinou z hlasujících, o zásadních otázkách sněm rozhoduje elektronicky s prodlouženou dobou hlasování; usnesení je přijato, pokud jej podpoří nadpoloviční většina hlasujících. Elektronické hlasování má platnost rozhodnutí sněmu.
 
 3) Volby
 
@@ -150,7 +150,7 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
 4) O personálních otázkách se zpravidla hlasuje tajně. Vždy se hlasuje tajně, pokud o to požádá kterýkoli člen.
 
-5) Volební období všech volených funkcí je dvouleté. Volební období začíná ukončením volební schůze nebo vyhlášením výsledků volby. Volební období republikového předsednictva strany kromě toho končí vždy nejdéle tři měsíce po volbách do Poslanecké sněmovny Parlamentu.
+5) Volební období všech volených funkcí je dvouleté. Volební období začíná dnem, kdy se mandát uvolní, nebo vyhlášením výsledků volby. Volební období republikového předsednictva strany kromě toho končí vždy nejdéle tři měsíce po volbách do Poslanecké sněmovny Parlamentu. Volby se vyhlašují tak, aby se konaly v průběhu posledních dvou měsíců trvání mandátu nebo po uvolnění mandátu.
 
 6) Každý člen může zastávat pouze jednu volenou funkci v organizačních jednotkách strany.
 
