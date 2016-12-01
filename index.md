@@ -124,6 +124,8 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
 3) Příznivci strany mohou podávat návrhy orgánům strany, mohou se účastnit diskusních setkání, mohou být delegováni do odborných komisí, mohou se podílet na výběru kandidátů pro volby do veřejných funkcí.
 
+4) Pro ukončení statusu příznivce se přiměřeně použijí ustanovení o ukončení členství.
+
 ## Článek 5 Organizační jednotky a orgány
 
 1) Orgány strany jsou republikový sněm, republikový výbor, republikové předsednictvo, rozhodčí komise, kontrolní komise, volební komise, v krajských sdruženích krajský sněm a krajské předsednictvo.
