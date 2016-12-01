@@ -24,7 +24,7 @@ d) Nadřazenost principu osobní svobody a odpovědnosti nad jinými cíli vede 
 
 e) Součástí svobody je odpovědnost.
 
-f) Svobodou rozumí Strana svobodných občanů možnost jednotlivce dělat si za své prostředky a na svém majetku cokoliv, co (nad míru přiměřenou okolnostem), nezasahuje do analogického výkonu svobody jiného. Svoboda velmi úzce souvisí s vlastnickým právem jako možností držet, užívat, požívat plody a nakládat s vlastněnou věcí.
+f) Svobodou rozumí Strana svobodných občanů možnost jednotlivce dělat si za své prostředky a na svém majetku cokoliv, co (nad míru přiměřenou okolnostem) nezasahuje do analogického výkonu svobody jiného. Svoboda velmi úzce souvisí s vlastnickým právem jako možností držet, užívat, požívat plody a nakládat s vlastněnou věcí.
 
 ### 2) Tradice
 
@@ -56,7 +56,7 @@ f) Úctu ke svobodnému rozhodování států považuje Strana svobodných obča
 
 ### 5) Volný trh
 
-a) Svoboda ekonomické iniciativy a spravedlivá soutěž volného trhu umožňuje nejlépe každému jednotlivci dosahovat svých osobních cílů. Blahobyt není ani politickým cílem, ani politickou filosofií. Pokud se stane míra blahobytu jediným kriteriem politického rozhodování, je politický systém vystaven enormním rizikům a nestabilitě, protože ne vždy je možné blahobyt zaručit a protože existují hodnoty, kterým je třeba dát přednost před blahobytem. To platí jak pro českou domácí politiku, tak pro současnou evropskou integraci.
+a) Svoboda ekonomické iniciativy a spravedlivá soutěž volného trhu umožňuje nejlépe každému jednotlivci dosahovat svých osobních cílů. Blahobyt není ani politickým cílem, ani politickou filosofií. Pokud se stane míra blahobytu jediným kritériem politického rozhodování, je politický systém vystaven enormním rizikům a nestabilitě, protože ne vždy je možné blahobyt zaručit a protože existují hodnoty, kterým je třeba dát přednost před blahobytem. To platí jak pro českou domácí politiku, tak pro současnou evropskou integraci.
 
 b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největší překážkou hospodářské spolupráce je politické zasahování do svobodného rozhodování podnikatelských subjektů.
 
@@ -212,7 +212,7 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
   d) volí a odvolává sedm členů Volební komise,
 
-  e) volí a odvolává třicet členů Republikového výboru
+  e) volí a odvolává třicet členů Republikového výboru,
 
   f) schvaluje změny stanov,
 
@@ -261,11 +261,11 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
   h) ukládá úkoly předsednictvu,
 
-  i) projednává a schvaluje základní programové a ideové dokumenty
+  i) projednává a schvaluje základní programové a ideové dokumenty,
 
   j) projednává vyžádané průběžné zprávy předsednictva,
 
-  k) zřizuje a ruší komise pro poradní, odbornou a expertní činnost
+  k) zřizuje a ruší komise pro poradní, odbornou a expertní činnost,
 
   l) odpovídá za kandidátní listiny pro volby do veřejných funkcí, v mimořádných a odůvodněných případech může kandidátní listinu změnit,
 
