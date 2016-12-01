@@ -120,7 +120,7 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
 ## Článek 4 Příznivci strany
 
-1) Jako příznivec strany se může zaregistrovat každý, kdo není členem jiné politické strany a kdo podporuje ideové cíle strany, na základě vyplnění a podpisu registračního formuláře a zaplacením stanoveného příspěvku.
+1) Jako příznivec strany se může zaregistrovat každý, kdo není členem jiné politické strany a kdo podporuje ideové cíle strany, na základě vyplnění registračního formuláře a zaplacením stanoveného příspěvku.
 
 2) Příznivci strany nejsou členy strany ve smyslu zákona č. 424/1991 Sb., o sdružování v politických stranách a v politických hnutích.
 
