@@ -118,13 +118,13 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
   g) účastnit se jednání, je-li k tomu vyzván, zejména pokud se týká jeho osoby.
 
-## Článek 4 Registrovaní příznivci strany
+## Článek 4 Příznivci strany
 
 1) Jako příznivec strany se může zaregistrovat každý, kdo není členem jiné politické strany a kdo podporuje ideové cíle strany, na základě vyplnění a podpisu registračního formuláře a zaplacením stanoveného příspěvku.
 
-2) Registrovaní příznivci strany nejsou členy strany ve smyslu zákona č. 424/1991 Sb., o sdružování v politických stranách a v politických hnutích.
+2) Příznivci strany nejsou členy strany ve smyslu zákona č. 424/1991 Sb., o sdružování v politických stranách a v politických hnutích.
 
-3) Registrovaní příznivci strany mohou podávat návrhy orgánům strany, mohou se účastnit diskusních setkání, mohou být delegováni do odborných komisí, mohou se podílet na výběru kandidátů pro volby do veřejných funkcí.
+3) Příznivci strany mohou podávat návrhy orgánům strany, mohou se účastnit diskusních setkání, mohou být delegováni do odborných komisí, mohou se podílet na výběru kandidátů pro volby do veřejných funkcí.
 
 ## Článek 5 Organizační jednotky a orgány
 
@@ -232,7 +232,7 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
 5) Republikový výbor zejména:
 
-  a) stanoví výši členských příspěvků a příspěvků registrovaných příznivců a lhůty pro zaplacení,
+  a) stanoví výši členských příspěvků a příspěvků příznivců a lhůty pro zaplacení,
 
   b) schvaluje statut kontrolní komise a statut rozhodčí komise,
 
