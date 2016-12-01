@@ -302,14 +302,13 @@ Místopředsedové zastupují předsedu strany ve stanoveném pořadí. Vykonáv
 
 ## Článek 13 Kontrolní komise
 
-1) Kontrolní komise je kontrolním orgánem strany, dohlíží na hospodaření a dodržování obecně závazných
-právních předpisů a stanov.
+1) Kontrolní komise je kontrolním orgánem strany, dohlíží na hospodaření a dodržování obecně závazných právních předpisů a stanov.
 
 2) Může navrhnout rozhodčímu výboru pozastavení rozhodnutí republikového předsednictva, nebo republikového výboru, pokud jsou v rozporu s obecně závaznými právními předpisy či stanovami strany.
 
 3) Členové kontrolní komise ze svého středu volí předsedu a místopředsedu komise.
 
-4) Kontrolní komise se řídí při výkonu své činnosti statutem schváleným republikovým výborem.
+4) Kontrolní komise se řídí při výkonu své činnosti statutem schváleným republikovým výborem
 
 5) Kontrolní komise schvaluje svůj jednací řád.
 
@@ -362,4 +361,3 @@ V případě zániku strany rozhodne republikový výbor o způsobu naložení s
 ## Článek 19 Republiková kancelář
 
 Republiková kancelář zajišťuje administrativní a organizační záležitosti strany a vede evidenci osobních dat. Podrobnosti stanoví organizační řád.
-14. 2. 2009
