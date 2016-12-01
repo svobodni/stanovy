@@ -64,7 +64,7 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
 2) Překážkou členství a důvodem k jeho ukončení je členství v jiné politické straně nebo hnutí, uvedení nepravdivých informací zejména na přihlášce, nesplnění některých předpokladů pro výkon funkcí ve státních orgánech (zákon č. 451/1991 Sb., lustrační zákon), kandidatura na veřejnou funkci bez souhlasu příslušného orgánu strany.
 
-3) Vyplněná a podepsaná přihláška se podává územně příslušnému krajskému předsednictvu prostřednictvím republikové kanceláře. O přijetí za člena rozhoduje krajské předsednictvo zpravidla za přítomnosti žadatele, členství vzniká po zaplacení členského příspěvku.
+3) Vyplněná a podepsaná přihláška se podává územně příslušnému krajskému předsednictvu prostřednictvím republikové kanceláře. O přijetí za člena rozhoduje krajské předsednictvo zpravidla za přítomnosti žadatele, členství vzniká po zaplacení členského příspěvku. Znovupřijetí vyloučeného člena podléhá souhlasu Republikového výboru.
 
 4) Člen krajského sdružení může hostovat v jiném krajském sdružení.
 
