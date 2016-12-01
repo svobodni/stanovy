@@ -136,9 +136,19 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
 1) Orgány strany si schvalují jednací a případně volební řády.
 
-2) Orgány strany se rozhodují nadpoloviční většinou přítomných členů, jsou usnášeníschopné za přítomnosti nadpoloviční většiny členů. Toto neplatí v případě jednokolových tajných voleb konaných podle těchto stanov, kdy jsou bez ohledu na počet hlasujících zvoleni kandidáti, kteří získali nejvyšší počet odevzdaných platných hlasů.
+2) Usnášeníschopnost a hlasování
 
-3) Všechny volby a případně i rozhodování sněmů o zásadních otázkách jsou podle možností přednostně prováděny elektronicky, korespondenčně a s prodlouženou dobou hlasování.
+  a) Orgány strany jsou usnášeníschopné za přítomnosti nadpoloviční většiny členů a mohou rozhodovat nadpoloviční většinou přítomných členů.
+
+  b) Republikový výbor, republikové předsednictvo, krajské předsednictvo, rozhodčí komise, kontrolní komise a volební komise rozhodují o zásadních otázkách elektronicky (korespondenčně) s prodlouženou dobou hlasování (per rollam) tak, aby bylo umožněno hlasování všem, kdo mají právo hlasovat; má se za to, že ten, kdo nehlasoval, s návrhem nesouhlasí. Usnesení je přijato, pokud je podpoří nadpoloviční většina ze všech, kdo jsou oprávněni hlasovat.
+
+  c) Republikový a krajský sněm je usnášeníschopný za jakéhokoliv počtu přítomných; na program nelze zařazovat nové body, které nebyly uvedeny na pozvánce. Na republikovém a krajském sněmu se může rozhodovat o procedurálních otázkách nadpoloviční většinou z přítomných, o zásadních otázkách sněm rozhoduje elektronicky (korespondenčně) s prodlouženou dobou hlasování; usnesení je přijato, pokud jej podpoří nadpoloviční většina hlasujících.
+
+3) Volby
+
+  a) Volby se konají elektronicky (korespondenčně) s prodlouženou dobou hlasování tak, aby bylo umožněno hlasování všem, kdo mají právo hlasovat. Zvoleni jsou ti, kdo získali nejvyšší počet odevzdaných platných hlasů bez ohledu na počet hlasujících. Je-li počet kandidátů menší nebo roven počtu volených, hlasuje se o každém kandidátovi zvlášť „pro návrh“ a „proti návrhu“, v takovém případě je kandidát zvolen, pokud variantu „pro návrh“ podpoří více hlasujících.
+
+  b) Volba předsedy rozhodčí, kontrolní a volební komise se může konat podle odst. 2 písm. a).
 
 4) O personálních otázkách se zpravidla hlasuje tajně. Vždy se hlasuje tajně, pokud o to požádá kterýkoli člen.
 
