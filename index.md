@@ -96,11 +96,9 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
   e) účastnit se s hlasovacím právem příslušných sněmů a voleb,
 
-  f) být volen a případně být delegován do stranických orgánů a funkcí, pokud není v pracovním nebo obdobném poměru ke straně,
+  f) být navržen za kandidáta pro volby do veřejných funkcí, kandidatura může vyžadovat splnění dalších kritérií, jako například získání podpory stanoveného počtu členů Strany svobodných občanů,
 
-  g) být navržen za kandidáta pro volby do veřejných funkcí, kandidatura může vyžadovat splnění dalších kritérií, jako například získání podpory stanoveného počtu členů Strany svobodných občanů,
-
-  h) obracet se na rozhodčí komisi v případě sporu a podávat návrh na vyloučení rozhodčí komisi.
+  g) obracet se na rozhodčí komisi v případě sporu a podávat návrh na vyloučení rozhodčí komisi.
 
 8) Člen je povinen:
 
