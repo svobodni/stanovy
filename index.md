@@ -257,7 +257,7 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
   f) může schválit vzorové jednací a volební řády,
 
-  g) projednává odvolání proti rozhodnutí Rozhodčí komise,
+  g) projednává odvolání proti rozhodnutí Rozhodčí komise o vyloučení člena a řeší případy, kdy rozhodnutím Rozhodčí komise nebyla dosažena náprava,
 
   h) ukládá úkoly předsednictvu,
 
