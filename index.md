@@ -1,4 +1,4 @@
-# Stanovy Strany svobodných občanů
+# Stanovy Svobodných
 
 ## Článek 1 Úvodní ustanovení
 
@@ -10,13 +10,13 @@
 
 ## Článek 2 Poslání a základní programové cíle
 
-Strana svobodných občanů vychází z iniciativy občanů České republiky, kteří si přejí žít ve svobodné a suverénní zemi, spravované státem, který chová úctu ke svým občanům, k jejich životu, majetku, svobodě a osobní odpovědnosti. Své cíle strana prosazuje férovým způsobem na základě svobodné diskuse demokratickými metodami při respektování platných právních předpisů.
+Svobodní vycházejí z iniciativy občanů České republiky, kteří si přejí žít ve svobodné a suverénní zemi, spravované státem, který chová úctu ke svým občanům, k jejich životu, majetku, svobodě a osobní odpovědnosti. Své cíle strana prosazuje férovým způsobem na základě svobodné diskuse demokratickými metodami při respektování platných právních předpisů.
 
 ### 1) Svoboda a odpovědnost
 
-a) Za nejcennější hodnoty, které chce podporovat a rozvíjet, považuje svobodu jednotlivce, svobodnou vůli člověka, jeho schopnost odpovědně se rozhodovat a volit lepší variantu z více možných, lidskou kreativitu a iniciativu. Respekt ke svobodě pro Stranu svobodných občanů znamená respekt k tradičním hodnotám, toleranci etnickou i náboženskou.
+a) Za nejcennější hodnoty, které chce podporovat a rozvíjet, považuje svobodu jednotlivce, svobodnou vůli člověka, jeho schopnost odpovědně se rozhodovat a volit lepší variantu z více možných, lidskou kreativitu a iniciativu. Respekt ke svobodě pro Svobodné znamená respekt k tradičním hodnotám, toleranci etnickou i náboženskou.
 
-b) Od respektu ke svobodě se odvíjí politické rozhodování Strany svobodných občanů a mírou svobody se poměřují dosažené výsledky. Za neodmyslitelnou součást ochrany svobody považují Svobodní ochranu vlastnictví.
+b) Od respektu ke svobodě se odvíjí politické rozhodování Svobodných a mírou svobody se poměřují dosažené výsledky. Za neodmyslitelnou součást ochrany svobody považují Svobodní ochranu vlastnictví.
 
 c) Základem politického systému je pro Svobodné spravedlivá a svobodná soutěž osobností, myšlenek, iniciativ a projektů při respektování morálních a etických zásad.
 
@@ -24,11 +24,11 @@ d) Nadřazenost principu osobní svobody a odpovědnosti nad jinými cíli vede 
 
 e) Součástí svobody je odpovědnost.
 
-f) Svobodou rozumí Strana svobodných občanů možnost jednotlivce dělat si za své prostředky a na svém majetku cokoliv, co (nad míru přiměřenou okolnostem) nezasahuje do analogického výkonu svobody jiného. Svoboda velmi úzce souvisí s vlastnickým právem jako možností držet, užívat, požívat plody a nakládat s vlastněnou věcí.
+f) Svobodou rozumí Svobodní možnost jednotlivce dělat si za své prostředky a na svém majetku cokoliv, co (nad míru přiměřenou okolnostem) nezasahuje do analogického výkonu svobody jiného. Svoboda velmi úzce souvisí s vlastnickým právem jako možností držet, užívat, požívat plody a nakládat s vlastněnou věcí.
 
 ### 2) Tradice
 
-Strana svobodných občanů se hlásí k duchovnímu, kulturnímu a politickému dědictví západní civilizace. Není však úkolem státu tyto hodnoty prosazovat.
+Svobodní se hlásí k duchovnímu, kulturnímu a politickému dědictví západní civilizace. Není však úkolem státu tyto hodnoty prosazovat.
 
 ### 3) Pravidla, principy, právo
 
@@ -38,13 +38,13 @@ b) Ke ctnostem politické a zákonodárné činnosti patří střídmost při vy
 
 c) Právo nemá a nemůže nahradit morální hodnotový systém.
 
-d) Strana svobodných občanů usiluje o návrat k předsocialistickým právním tradicím a o reformu právní filosofie.
+d) Svobodní usilují o návrat k předsocialistickým právním tradicím a o reformu právní filosofie.
 
 ### 4) Stát
 
 a) Státní moc má sklon rozhodovat za občany a tím ohrožuje jejich svobodu, proto musí být omezena a kontrolována.
 
-b) Ve snaze pro každého vymezit a zabezpečit svobodný prostor chráněný proti zásahům veřejné moci, považujeme za nepřijatelné úsilí prosadit neomezenou vládu většiny v evropském prostoru. Strana svobodných občanů usiluje o Evropu rovnoprávných a suverénních demokratických států bez ohledu na jejich velikost.
+b) Ve snaze pro každého vymezit a zabezpečit svobodný prostor chráněný proti zásahům veřejné moci, považujeme za nepřijatelné úsilí prosadit neomezenou vládu většiny v evropském prostoru. Svobodní usilují o Evropu rovnoprávných a suverénních demokratických států bez ohledu na jejich velikost.
 
 c) Dlouhodobé tolerování institucí poznamenaných demokratickým deficitem zákonitě vede k omezování práv a svobod jednotlivců a k nespravedlnostem, jež nelze vyvážit žádným jiným přínosem.
 
@@ -52,7 +52,7 @@ d) Suverenita České republiky je základní podmínkou zachování skutečné 
 
 e) Uniformita není politickým cílem.
 
-f) Úctu ke svobodnému rozhodování států považuje Strana svobodných občanů za analogii úcty ke svobodě člověka.
+f) Úctu ke svobodnému rozhodování států považují Svobodní za analogii úcty ke svobodě člověka.
 
 ### 5) Volný trh
 
@@ -98,7 +98,7 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
   e) účastnit se s hlasovacím právem příslušných sněmů a voleb,
 
-  f) být navržen za kandidáta pro volby do veřejných funkcí, kandidatura může vyžadovat splnění dalších kritérií, jako například získání podpory stanoveného počtu členů Strany svobodných občanů,
+  f) být navržen za kandidáta pro volby do veřejných funkcí, kandidatura může vyžadovat splnění dalších kritérií, jako například získání podpory stanoveného počtu členů Svobodných,
 
   g) obracet se na Rozhodčí komisi v případě sporu a podávat návrh na vyloučení Rozhodčí komisi.
 
