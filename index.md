@@ -28,7 +28,7 @@ f) Svobodou rozumí Strana svobodných občanů možnost jednotlivce děla
 
 ### 2) Tradice
 
-Strana svobodných občanů se hlásí k duchovnímu, kulturnímu a politickému dědictví západní civilizace.
+Strana svobodných občanů se hlásí k duchovnímu, kulturnímu a politickému dědictví západní civilizace. Není však úkolem státu tyto hodnoty prosazovat.
 
 ### 3) Pravidla, principy, právo
 
