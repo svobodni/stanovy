@@ -297,7 +297,7 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
 ## Článek 11 Předseda strany
 
-1) Předseda svolává republikový sněm, výbor, Republikové předsednictvo a předsedá jim.
+1) Předseda nebo pověřený člen předsednictva svolává republikový sněm, výbor, Republikové předsednictvo a předsedá jim.
 
 ## Článek 12 Místopředsedové strany
 
