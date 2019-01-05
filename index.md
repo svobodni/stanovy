@@ -184,7 +184,7 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
   e) svolává minimálně jedenkrát ročně krajský sněm,
 
-  f) přijímá nové členy,
+  f) rozhoduje o přijetí členů se souhlasem Republikového předsednictva, pokud tito žadatelé byli v minulosti členy Svobodných a v ostatních případech samostatně, pokud není určeno jinak,
 
   g) může zřizovat poradní komise,
 
