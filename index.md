@@ -2,7 +2,7 @@
 
 ## Článek 1 Úvodní ustanovení
 
-1) Politická strana nese název Strana svobodných občanů, používá zkratku ‚Svobodní‘.
+1) Politická strana nese název Svobodní
 
 2) Strana je registrována podle zákona č. 424/1991 Sb., o sdružování v politických stranách a v politických hnutích ve znění pozdějších předpisů a působí v České republice.
 
