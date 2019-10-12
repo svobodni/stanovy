@@ -152,7 +152,7 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
 4) O personálních otázkách se zpravidla hlasuje tajně. Vždy se hlasuje tajně, pokud o to požádá kterýkoli člen.
 
-5) Volební období všech volených funkcí je dvouleté. Volební období začíná dnem, kdy se mandát uvolní, nebo vyhlášením výsledků volby. Volební období Republikového předsednictva strany kromě toho končí vždy nejdéle tři měsíce po volbách do Poslanecké sněmovny Parlamentu. Volby se vyhlašují tak, aby se konaly v průběhu posledních dvou měsíců trvání mandátu nebo po uvolnění mandátu.
+5) Volební období všech volených funkcí je dvouleté. Volební období začíná dnem, kdy se mandát uvolní, nebo vyhlášením výsledků volby. Volby se vyhlašují tak, aby se konaly v průběhu posledních dvou měsíců trvání mandátu nebo po uvolnění mandátu.
 
 6) Každý člen může zastávat pouze jednu volenou funkci v organizačních jednotkách strany, vyjma krajských místopředsedů, kteří mohou být současně členy Republikového výboru.
 
