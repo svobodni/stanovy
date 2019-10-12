@@ -66,7 +66,7 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
 2) Překážkou členství a důvodem k jeho ukončení je členství v jiné politické straně nebo hnutí, uvedení nepravdivých informací zejména na přihlášce, nesplnění některých předpokladů pro výkon funkcí ve státních orgánech (zákon č. 451/1991 Sb., lustrační zákon), kandidatura na veřejnou funkci bez souhlasu příslušného orgánu strany ke dni voleb.
 
-3) Vyplněná přihláška se podává elektronicky krajskému předsednictvu prostřednictvím informačního systému strany. Pokud žadatel v přihlášce nespecifikuje krajskou organizaci, jíž chce být členem, má se za to, že přihláška je podána k územně příslušnému krajskému předsednictvu dle trvalého pobytu. O přijetí rozhoduje krajské předsednictvo, v jehož kraji žadatel žádá o členství, zpravidla na základě přijímacího pohovoru, členství vzniká po zaplacení členského příspěvku, doručení přihlášky podepsané žadatelem a vyznačení schválení krajským předsednictvem. Znovupřijetí vyloučeného člena podléhá souhlasu Republikového výboru.
+3) Vyplněná přihláška se podává elektronicky krajskému předsednictvu prostřednictvím informačního systému strany. Pokud žadatel v přihlášce nespecifikuje krajskou organizaci, jíž chce být členem, má se za to, že přihláška je podána k územně příslušnému krajskému předsednictvu dle trvalého pobytu. O přijetí rozhoduje krajské předsednictvo, v jehož kraji žadatel žádá o členství, zpravidla na základě přijímacího pohovoru, členství vzniká po zaplacení členského příspěvku, doručení přihlášky podepsané žadatelem a vyznačení schválení krajským předsednictvem. Pokud krajské předsednictvo odmítne žadatele o členství přijmout, může se žadatel odvolat k Republikovému předsednictvu. Rozhodnutí, kterým Republikové předsednictvo vyhoví odvolání, nahrazuje schválení krajským předsednictvem. Znovupřijetí vyloučeného člena podléhá souhlasu Republikového výboru.
 
 4) Člen krajského sdružení může požádat o členství v jiném krajském sdružení prostřednictvím předsedy kraje, kterého chce být členem. Předseda tohoto kraje dá hlasovat o žádosti na nejbližším zasedání krajského předsednictva. Pokud krajské předsednictvo žadatele přijme, stane se členem tohoto kraje. Republiková kancelář na základě zápisu z jednání krajského předsednictva zařadí žadatele do krajského sdružení, o jehož členství žádal. Veškerá práva a povinnosti v původním kraji ztrácí, včetně případného mandátu v orgánech kraje, zároveň získává veškerá práva a povinnosti v novém krajském sdružení. Tato změna je možná pouze jednou za kalendářní rok.
 
@@ -299,7 +299,9 @@ Pro určení počtu místopředsedů podle tohoto ustanovení je rozhodující p
 
   f) předkládá Republikovému výboru vlastní návrhy týkající se činnosti strany,
 
-  g) může vyhlásit nové volby krajského předsednictva.
+  g) může vyhlásit nové volby krajského předsednictva,
+
+  h) rozhoduje o odvolání proti rozhodnutí krajského předsednictva, kterým nebylo schváleno přijetí žadatele o členství.
 
 3) Členové Republikového předsednictva mají právo zúčastnit se jednání všech organizačních jednotek strany s hlasem poradním.
 
