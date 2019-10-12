@@ -124,7 +124,7 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
 2) Příznivci strany nejsou členy strany ve smyslu zákona č. 424/1991 Sb., o sdružování v politických stranách a v politických hnutích.
 
-3) Příznivci strany mohou podávat návrhy orgánům strany, mohou se účastnit diskusních setkání, mohou být delegováni do odborných komisí.
+3) Příznivci strany mohou podávat návrhy orgánům strany, mohou se účastnit diskusních setkání, mohou být delegováni do odborných komisí., mohou se podílet na výběru kandidátů pro volby do veřejných funkcí ve volebním obvodě, ve kterémmají trvalý pobyt.
 
 4) Pro ukončení statusu příznivce se přiměřeně použijí ustanovení o ukončení členství.
 
