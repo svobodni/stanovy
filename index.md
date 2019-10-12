@@ -249,11 +249,13 @@ Pro určení počtu místopředsedů podle tohoto ustanovení je rozhodující p
 
 2) Republikový výbor se skládá z Republikového předsednictva, z předsedů krajských sdružení a z dvaceti členů volených republikovým sněmem v přímé tajné jednokolové volbě.
 
-3) Předseda strany svolává Republikový výbor podle potřeby, nejméně však jednou za tři měsíce.
+3) Členy Republikového výboru jsou také poslanci a senátoři zvolení jako kandidáti strany, pokud jsou členy strany.
 
-4) Předseda strany svolá Republikový výbor do 14 dnů, požádá-li jej o to písemně nejméně třetina členů výboru.
+4) Předseda strany svolává Republikový výbor podle potřeby, nejméně však jednou za tři měsíce.
 
-5) Republikový výbor zejména:
+5) Předseda strany svolá Republikový výbor do 14 dnů, požádá-li jej o to písemně nejméně třetina členů výboru.
+
+6) Republikový výbor zejména:
 
   a) stanoví výši členských příspěvků a příspěvků příznivců a lhůty pro zaplacení,
 
