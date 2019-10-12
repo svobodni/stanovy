@@ -154,7 +154,7 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
 5) Volební období všech volených funkcí je dvouleté. Volební období začíná dnem, kdy se mandát uvolní, nebo vyhlášením výsledků volby. Volební období Republikového předsednictva strany kromě toho končí vždy nejdéle tři měsíce po volbách do Poslanecké sněmovny Parlamentu. Volby se vyhlašují tak, aby se konaly v průběhu posledních dvou měsíců trvání mandátu nebo po uvolnění mandátu.
 
-6) Každý člen může zastávat pouze jednu volenou funkci v organizačních jednotkách strany.
+6) Každý člen může zastávat pouze jednu volenou funkci v organizačních jednotkách strany, vyjma krajských místopředsedů, kteří mohou být současně členy Republikového výboru.
 
 7) Nesvolá-li z jakéhokoli důvodu předseda strany republikový sněm, svolá předseda Rozhodčí komise do 14 dnů Republikový výbor, který schválí pravidla dalšího postupu. Nesvolá-li krajské předsednictvo krajský sněm, rozhodne Republikové předsednictvo o svolání příslušného krajského sněmu, který do 14 dnů svolá předseda strany. Neplní-li z jakéhokoli důvodu krajské předsednictvo své úkoly, může pravomoci podle čl. 7 odst. 4 písm. f), h) a i) vykonávat Republikové předsednictvo.
 
