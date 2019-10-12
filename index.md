@@ -124,7 +124,7 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
 2) Příznivci strany nejsou členy strany ve smyslu zákona č. 424/1991 Sb., o sdružování v politických stranách a v politických hnutích.
 
-3) Příznivci strany mohou podávat návrhy orgánům strany, mohou se účastnit diskusních setkání, mohou být delegováni do odborných komisí., mohou se podílet na výběru kandidátů pro volby do veřejných funkcí ve volebním obvodě, ve kterémmají trvalý pobyt.
+3) Příznivci strany mohou podávat návrhy orgánům strany, mohou se účastnit diskusních setkání, mohou být delegováni do odborných komisí, mohou se podílet na výběru kandidátů pro volby do veřejných funkcí ve volebním obvodě, ve kterém mají trvalý pobyt.
 
 4) Pro ukončení statusu příznivce se přiměřeně použijí ustanovení o ukončení členství.
 
@@ -174,13 +174,13 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
 4) Krajské předsednictvo se skládá z předsedy a
 
-a) jednoho místopředsedy, pokud je v krajském sdružení registrováno méně než 30 členů,
+  a) jednoho místopředsedy, pokud je v krajském sdružení registrováno méně než 30 členů,
 
-b) dvou místopředsedů, pokud je v krajském sdružení registrováno alespoň 30 členů,
+  b) dvou místopředsedů, pokud je v krajském sdružení registrováno alespoň 30 členů,
 
-c) třech místopředsedů, pokud je v krajském sdružení registrováno alespoň 50 členů,
+  c) třech místopředsedů, pokud je v krajském sdružení registrováno alespoň 50 členů,
 
-d) čtyř místopředsedů, pokud je v krajském sdružení registrováno alespoň 70 členů.
+  d) čtyř místopředsedů, pokud je v krajském sdružení registrováno alespoň 70 členů.
 
 Pro určení počtu místopředsedů podle tohoto ustanovení je rozhodující počet registrovaných členů v krajském sdružení k 1. červnu každého roku. Pokud počet členů k tomuto datu klesne tak, že by mělo dojít ke snížení počtu místopředsedů, stávající místopředsedové pokračují ve funkcích do skončení svého volebního období.
 
