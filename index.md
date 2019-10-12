@@ -206,11 +206,11 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
   a) volí a odvolává předsedu a čtyři místopředsedy strany v přímé tajné jednokolové volbě za účasti všech členů strany,
 
-  b) volí a odvolává sedm členů Kontrolní komise,
+  b) volí a odvolává pět členů Kontrolní komise,
 
-  c) volí a odvolává sedm členů Rozhodčí komise,
+  c) volí a odvolává pět členů Rozhodčí komise,
 
-  d) volí a odvolává sedm členů Volební komise,
+  d) volí a odvolává pět členů Volební komise,
 
   e) volí a odvolává třicet členů Republikového výboru,
 
