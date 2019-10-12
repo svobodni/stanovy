@@ -66,7 +66,7 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
 2) Překážkou členství a důvodem k jeho ukončení je členství v jiné politické straně nebo hnutí, uvedení nepravdivých informací zejména na přihlášce, nesplnění některých předpokladů pro výkon funkcí ve státních orgánech (zákon č. 451/1991 Sb., lustrační zákon), kandidatura na veřejnou funkci bez souhlasu příslušného orgánu strany ke dni voleb.
 
-3) Vyplněná přihláška se podává elektronicky krajskému předsednictvu prostřednictvím informačního systému strany. Pokud žadatel v přihlášce nespecifikuje krajskou organizaci, jíž chce být členem, má se za to, že přihláška je podána k územně příslušnému krajskému předsednictvu dle trvalého pobytu. O přijetí rozhoduje krajské předsednictvo, v jehož kraji žadatel žádá o členství, zpravidla na základě přijímacího pohovoru, členství vzniká po zaplacení členského příspěvku, doručení přihlášky podepsané žadatelem a vyznačení schválení krajským předsednictvem. Znovupřijetí vyloučeného člena podléhá souhlasu Republikového výboru.
+3) Vyplněná přihláška se podává elektronicky krajskému předsednictvu prostřednictvím informačního systému strany. Pokud žadatel v přihlášce nespecifikuje krajskou organizaci, jíž chce být členem, má se za to, že přihláška je podána k územně příslušnému krajskému předsednictvu dle trvalého pobytu. O přijetí rozhoduje krajské předsednictvo, v jehož kraji žadatel žádá o členství, zpravidla na základě přijímacího pohovoru, členství vzniká po zaplacení členského příspěvku, doručení přihlášky podepsané žadatelem a vyznačení schválení krajským předsednictvem. Pokud krajské předsednictvo odmítne žadatele o členství přijmout, může se žadatel odvolat k Republikovému předsednictvu. Rozhodnutí, kterým Republikové předsednictvo vyhoví odvolání, nahrazuje schválení krajským předsednictvem. Znovupřijetí vyloučeného člena podléhá souhlasu Republikového výboru.
 
 4) Člen krajského sdružení může požádat o členství v jiném krajském sdružení prostřednictvím předsedy kraje, kterého chce být členem. Předseda tohoto kraje dá hlasovat o žádosti na nejbližším zasedání krajského předsednictva. Pokud krajské předsednictvo žadatele přijme, stane se členem tohoto kraje. Republiková kancelář na základě zápisu z jednání krajského předsednictva zařadí žadatele do krajského sdružení, o jehož členství žádal. Veškerá práva a povinnosti v původním kraji ztrácí, včetně případného mandátu v orgánech kraje, zároveň získává veškerá práva a povinnosti v novém krajském sdružení. Tato změna je možná pouze jednou za kalendářní rok.
 
@@ -124,7 +124,7 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
 2) Příznivci strany nejsou členy strany ve smyslu zákona č. 424/1991 Sb., o sdružování v politických stranách a v politických hnutích.
 
-3) Příznivci strany mohou podávat návrhy orgánům strany, mohou se účastnit diskusních setkání, mohou být delegováni do odborných komisí.
+3) Příznivci strany mohou podávat návrhy orgánům strany, mohou se účastnit diskusních setkání, mohou být delegováni do odborných komisí, mohou se podílet na výběru kandidátů pro volby do veřejných funkcí ve volebním obvodě, ve kterém mají trvalý pobyt.
 
 4) Pro ukončení statusu příznivce se přiměřeně použijí ustanovení o ukončení členství.
 
@@ -152,9 +152,9 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
 4) O personálních otázkách se zpravidla hlasuje tajně. Vždy se hlasuje tajně, pokud o to požádá kterýkoli člen.
 
-5) Volební období všech volených funkcí je dvouleté. Volební období začíná dnem, kdy se mandát uvolní, nebo vyhlášením výsledků volby. Volební období Republikového předsednictva strany kromě toho končí vždy nejdéle tři měsíce po volbách do Poslanecké sněmovny Parlamentu. Volby se vyhlašují tak, aby se konaly v průběhu posledních dvou měsíců trvání mandátu nebo po uvolnění mandátu.
+5) Volební období všech volených funkcí je dvouleté. Volební období začíná dnem, kdy se mandát uvolní, nebo vyhlášením výsledků volby. Volby se vyhlašují tak, aby se konaly v průběhu posledních dvou měsíců trvání mandátu nebo po uvolnění mandátu.
 
-6) Každý člen může zastávat pouze jednu volenou funkci v organizačních jednotkách strany.
+6) Každý člen může zastávat pouze jednu volenou funkci v organizačních jednotkách strany, vyjma krajských místopředsedů, kteří mohou být současně členy Republikového výboru.
 
 7) Nesvolá-li z jakéhokoli důvodu předseda strany republikový sněm, svolá předseda Rozhodčí komise do 14 dnů Republikový výbor, který schválí pravidla dalšího postupu. Nesvolá-li krajské předsednictvo krajský sněm, rozhodne Republikové předsednictvo o svolání příslušného krajského sněmu, který do 14 dnů svolá předseda strany. Neplní-li z jakéhokoli důvodu krajské předsednictvo své úkoly, může pravomoci podle čl. 7 odst. 4 písm. f), h) a i) vykonávat Republikové předsednictvo.
 
@@ -172,25 +172,35 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
   c) ukládá úkoly krajskému předsednictvu.
 
-4) Krajské předsednictvo:
+4) Krajské předsednictvo se skládá z předsedy a
 
-  a) sestává z předsedy a čtyř místopředsedů,
+  a) jednoho místopředsedy, pokud je v krajském sdružení registrováno méně než 30 členů,
 
-  b) je odpovědné krajskému sněmu,
+  b) dvou místopředsedů, pokud je v krajském sdružení registrováno alespoň 30 členů,
 
-  c) plní usnesení krajského sněmu,
+  c) třech místopředsedů, pokud je v krajském sdružení registrováno alespoň 50 členů,
 
-  d) schází se podle potřeby, sejde se vždy, požádá-li o to kterýkoli člen předsednictva,
+  d) čtyř místopředsedů, pokud je v krajském sdružení registrováno alespoň 70 členů.
 
-  e) svolává minimálně jedenkrát ročně krajský sněm,
+Pro určení počtu místopředsedů podle tohoto ustanovení je rozhodující počet registrovaných členů v krajském sdružení k 1. červnu každého roku. Pokud počet členů k tomuto datu klesne tak, že by mělo dojít ke snížení počtu místopředsedů, stávající místopředsedové pokračují ve funkcích do skončení svého volebního období.
 
-  f) rozhoduje o přijetí členů se souhlasem Republikového předsednictva, pokud tito žadatelé byli v minulosti členy Svobodných a v ostatních případech samostatně, pokud není určeno jinak,
+5) Krajské předsednictvo:
 
-  g) může zřizovat poradní komise,
+  a) je odpovědné krajskému sněmu,
 
-  h) shromažďuje návrhy na kandidáty do voleb a zabezpečuje jejich odbornou a politickou přípravu,
+  b) plní usnesení krajského sněmu,
 
-  i) zabezpečuje organizačně otevřené primární volby ve svém kraji, může pro tento účel zřídit volební komisi.
+  c) schází se podle potřeby, sejde se vždy, požádá-li o to kterýkoli člen předsednictva,
+
+  d) svolává minimálně jedenkrát ročně krajský sněm,
+
+  e) rozhoduje o přijetí členů se souhlasem Republikového předsednictva, pokud tito žadatelé byli v minulosti členy Svobodných a v ostatních případech samostatně, pokud není určeno jinak,
+
+  f) může zřizovat poradní komise,
+
+  g) shromažďuje návrhy na kandidáty do voleb a zabezpečuje jejich odbornou a politickou přípravu,
+
+  h) zabezpečuje organizačně otevřené primární volby ve svém kraji, může pro tento účel zřídit volební komisi.
 
 ## Článek 8 Republikový sněm
 
@@ -206,11 +216,11 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
   a) volí a odvolává předsedu a čtyři místopředsedy strany v přímé tajné jednokolové volbě za účasti všech členů strany,
 
-  b) volí a odvolává sedm členů Kontrolní komise,
+  b) volí a odvolává pět členů Kontrolní komise,
 
-  c) volí a odvolává sedm členů Rozhodčí komise,
+  c) volí a odvolává pět členů Rozhodčí komise,
 
-  d) volí a odvolává sedm členů Volební komise,
+  d) volí a odvolává pět členů Volební komise,
 
   e) volí a odvolává třicet členů Republikového výboru,
 
@@ -237,13 +247,15 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
 1) Republikový výbor plní v době, kdy republikový sněm nezasedá, ty úkoly sněmu, které nemá sněm ve své výlučné pravomoci.
 
-2) Republikový výbor se skládá z Republikového předsednictva, z předsedů krajských sdružení a ze třiceti členů volených republikovým sněmem v přímé tajné jednokolové volbě.
+2) Republikový výbor se skládá z Republikového předsednictva, z předsedů krajských sdružení a z dvaceti členů volených republikovým sněmem v přímé tajné jednokolové volbě.
 
-3) Předseda strany svolává Republikový výbor podle potřeby, nejméně však jednou za tři měsíce.
+3) Členy Republikového výboru jsou také poslanci a senátoři zvolení jako kandidáti strany, pokud jsou členy strany.
 
-4) Předseda strany svolá Republikový výbor do 14 dnů, požádá-li jej o to písemně nejméně třetina členů výboru.
+4) Předseda strany svolává Republikový výbor podle potřeby, nejméně však jednou za tři měsíce.
 
-5) Republikový výbor zejména:
+5) Předseda strany svolá Republikový výbor do 14 dnů, požádá-li jej o to písemně nejméně třetina členů výboru.
+
+6) Republikový výbor zejména:
 
   a) stanoví výši členských příspěvků a příspěvků příznivců a lhůty pro zaplacení,
 
@@ -289,7 +301,9 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
   f) předkládá Republikovému výboru vlastní návrhy týkající se činnosti strany,
 
-  g) může vyhlásit nové volby krajského předsednictva.
+  g) může vyhlásit nové volby krajského předsednictva,
+
+  h) rozhoduje o odvolání proti rozhodnutí krajského předsednictva, kterým nebylo schváleno přijetí žadatele o členství.
 
 3) Členové Republikového předsednictva mají právo zúčastnit se jednání všech organizačních jednotek strany s hlasem poradním.
 
