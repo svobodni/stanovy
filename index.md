@@ -172,25 +172,35 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
   c) ukládá úkoly krajskému předsednictvu.
 
-4) Krajské předsednictvo:
+4) Krajské předsednictvo se skládá z předsedy a
 
-  a) sestává z předsedy a čtyř místopředsedů,
+a) jednoho místopředsedy, pokud je v krajském sdružení registrováno méně než 30 členů,
 
-  b) je odpovědné krajskému sněmu,
+b) dvou místopředsedů, pokud je v krajském sdružení registrováno alespoň 30 členů,
 
-  c) plní usnesení krajského sněmu,
+c) třech místopředsedů, pokud je v krajském sdružení registrováno alespoň 50 členů,
 
-  d) schází se podle potřeby, sejde se vždy, požádá-li o to kterýkoli člen předsednictva,
+d) čtyř místopředsedů, pokud je v krajském sdružení registrováno alespoň 70 členů.
 
-  e) svolává minimálně jedenkrát ročně krajský sněm,
+Pro určení počtu místopředsedů podle tohoto ustanovení je rozhodující počet registrovaných členů v krajském sdružení k 1. červnu každého roku. Pokud počet členů k tomuto datu klesne tak, že by mělo dojít ke snížení počtu místopředsedů, stávající místopředsedové pokračují ve funkcích do skončení svého volebního období.
 
-  f) rozhoduje o přijetí členů se souhlasem Republikového předsednictva, pokud tito žadatelé byli v minulosti členy Svobodných a v ostatních případech samostatně, pokud není určeno jinak,
+5) Krajské předsednictvo:
 
-  g) může zřizovat poradní komise,
+  a) je odpovědné krajskému sněmu,
 
-  h) shromažďuje návrhy na kandidáty do voleb a zabezpečuje jejich odbornou a politickou přípravu,
+  b) plní usnesení krajského sněmu,
 
-  i) zabezpečuje organizačně otevřené primární volby ve svém kraji, může pro tento účel zřídit volební komisi.
+  c) schází se podle potřeby, sejde se vždy, požádá-li o to kterýkoli člen předsednictva,
+
+  d) svolává minimálně jedenkrát ročně krajský sněm,
+
+  e) rozhoduje o přijetí členů se souhlasem Republikového předsednictva, pokud tito žadatelé byli v minulosti členy Svobodných a v ostatních případech samostatně, pokud není určeno jinak,
+
+  f) může zřizovat poradní komise,
+
+  g) shromažďuje návrhy na kandidáty do voleb a zabezpečuje jejich odbornou a politickou přípravu,
+
+  h) zabezpečuje organizačně otevřené primární volby ve svém kraji, může pro tento účel zřídit volební komisi.
 
 ## Článek 8 Republikový sněm
 
