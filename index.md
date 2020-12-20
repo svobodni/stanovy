@@ -18,7 +18,7 @@ a) Za nejcennější hodnoty, které chce podporovat a rozvíjet, považuje svob
 
 b) Od respektu ke svobodě se odvíjí politické rozhodování Svobodných a mírou svobody se poměřují dosažené výsledky. Za neodmyslitelnou součást ochrany svobody považují Svobodní ochranu vlastnictví.
 
-c) Základem politického systému je pro Svobodné spravedlivá a svobodná soutěž osobností, myšlenek, iniciativ a projektů při respektování morálních a etických zásad.
+c) Základem politického systému je pro Svobodné spravedlivá a svobodná soutěž osobností, myšlenek, iniciativ a projektů při respektování morálních a etických zásad. Cenzura a zprostředkovaná cenzura jsou nepřípustné. Politický nátlak na vytváření atmosféry vedoucí k autocenzuře je neospravedlnitelný.
 
 d) Nadřazenost principu osobní svobody a odpovědnosti nad jinými cíli vede Svobodné k zásadnímu odmítání myšlenkových směrů a hnutí, které ohrožují práva a svobody druhých.
 
@@ -138,7 +138,7 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
 2) Usnášeníschopnost a hlasování
 
-  a) Orgány strany s výjimkou republikového a krajského sněmu jsou usnášeníschopné za přítomnosti nadpoloviční většiny členů a mohou v takovém případě rozhodovat nadpoloviční většinou hlasujících; na program nelze zařazovat nové body, které nebyly uvedeny na pozvánce.
+  a) Orgány strany s výjimkou republikového a krajského sněmu a republikového výboru jsou usnášeníschopné za přítomnosti nadpoloviční většiny členů a mohou v takovém případě rozhodovat nadpoloviční většinou hlasujících. Republikový výbor je usnášeníschopný za přítomnosti minimálně jedné třetiny členů. Na program nelze zařazovat nové body, které nebyly uvedeny na pozvánce.
 
   b) Republikový výbor, Republikové předsednictvo, krajské předsednictvo, Rozhodčí komise, Kontrolní komise a Volební komise mohou rozhodovat také elektronicky s prodlouženou dobou hlasování tak, aby bylo umožněno hlasování všem, kdo mají právo hlasovat; má se za to, že ten, kdo nehlasoval, s návrhem nesouhlasí. Usnesení je přijato, pokud je podpoří nadpoloviční většina ze všech, kdo jsou oprávněni hlasovat.
 
@@ -172,35 +172,28 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
   c) ukládá úkoly krajskému předsednictvu.
 
-4) Krajské předsednictvo se skládá z předsedy a
-
-  a) jednoho místopředsedy, pokud je v krajském sdružení registrováno méně než 30 členů,
-
-  b) dvou místopředsedů, pokud je v krajském sdružení registrováno alespoň 30 členů,
-
-  c) třech místopředsedů, pokud je v krajském sdružení registrováno alespoň 50 členů,
-
-  d) čtyř místopředsedů, pokud je v krajském sdružení registrováno alespoň 70 členů.
 
 Pro určení počtu místopředsedů podle tohoto ustanovení je rozhodující počet registrovaných členů v krajském sdružení k 1. červnu každého roku. Pokud počet členů k tomuto datu klesne tak, že by mělo dojít ke snížení počtu místopředsedů, stávající místopředsedové pokračují ve funkcích do skončení svého volebního období.
 
-5) Krajské předsednictvo:
+4) Krajské předsednictvo:
 
-  a) je odpovědné krajskému sněmu,
+  a) se skládá z předsedy a čtyř místopředsedů,
+  
+  b) je odpovědné krajskému sněmu,
 
-  b) plní usnesení krajského sněmu,
+  c) plní usnesení krajského sněmu,
 
-  c) schází se podle potřeby, sejde se vždy, požádá-li o to kterýkoli člen předsednictva,
+  d) schází se podle potřeby, sejde se vždy, požádá-li o to kterýkoli člen předsednictva,
 
-  d) svolává minimálně jedenkrát ročně krajský sněm,
+  e) svolává minimálně jedenkrát ročně krajský sněm,
 
-  e) rozhoduje o přijetí členů se souhlasem Republikového předsednictva, pokud tito žadatelé byli v minulosti členy Svobodných a v ostatních případech samostatně, pokud není určeno jinak,
+  f) rozhoduje o přijetí členů se souhlasem Republikového předsednictva, pokud tito žadatelé byli v minulosti členy Svobodných a v ostatních případech samostatně, pokud není určeno jinak,
 
-  f) může zřizovat poradní komise,
+  g) může zřizovat poradní komise,
 
-  g) shromažďuje návrhy na kandidáty do voleb a zabezpečuje jejich odbornou a politickou přípravu,
+  h) shromažďuje návrhy na kandidáty do voleb a zabezpečuje jejich odbornou a politickou přípravu,
 
-  h) zabezpečuje organizačně otevřené primární volby ve svém kraji, může pro tento účel zřídit volební komisi.
+  i) zabezpečuje organizačně otevřené primární volby ve svém kraji, může pro tento účel zřídit volební komisi.
 
 ## Článek 8 Republikový sněm
 
@@ -224,7 +217,7 @@ Pro určení počtu místopředsedů podle tohoto ustanovení je rozhodující p
 
   e) volí a odvolává třicet členů Republikového výboru,
 
-  f) schvaluje změny stanov,
+  f) schvaluje změny stanov poté, co byly projednány alespoň v jednom ze trojice následujících orgánů strany: Rozhodčí komise, Republikové předsednictvo, Republikový výbor,
 
   g) projednává a schvaluje výroční zprávu předsedy strany,
 
@@ -341,7 +334,7 @@ Místopředsedové zastupují předsedu strany ve stanoveném pořadí. Vykonáv
 
   a) vydává usnesení k závaznému výkladu stanov,
 
-  b) průběžně shromažďuje návrhy na změny stanov,
+  b) průběžně shromažďuje návrhy na změny stanov, projednává je a vydává k nim stanoviska,
 
   c) při projednávání sporných záležitostí vždy vyslechne dotčené osoby a organizační jednotky,
 
