@@ -138,7 +138,7 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
 2) Usnášeníschopnost a hlasování
 
-  a) Orgány strany s výjimkou republikového a krajského sněmu jsou usnášeníschopné za přítomnosti nadpoloviční většiny členů a mohou v takovém případě rozhodovat nadpoloviční většinou hlasujících; na program nelze zařazovat nové body, které nebyly uvedeny na pozvánce.
+  a) Orgány strany s výjimkou republikového a krajského sněmu a republikového výboru jsou usnášeníschopné za přítomnosti nadpoloviční většiny členů a mohou v takovém případě rozhodovat nadpoloviční většinou hlasujících. Republikový výbor je usnášeníschopný za přítomnosti minimálně jedné třetiny členů. Na program nelze zařazovat nové body, které nebyly uvedeny na pozvánce.
 
   b) Republikový výbor, Republikové předsednictvo, krajské předsednictvo, Rozhodčí komise, Kontrolní komise a Volební komise mohou rozhodovat také elektronicky s prodlouženou dobou hlasování tak, aby bylo umožněno hlasování všem, kdo mají právo hlasovat; má se za to, že ten, kdo nehlasoval, s návrhem nesouhlasí. Usnesení je přijato, pokud je podpoří nadpoloviční většina ze všech, kdo jsou oprávněni hlasovat.
 
