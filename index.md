@@ -18,7 +18,7 @@ a) Za nejcennější hodnoty, které chce podporovat a rozvíjet, považuje svob
 
 b) Od respektu ke svobodě se odvíjí politické rozhodování Svobodných a mírou svobody se poměřují dosažené výsledky. Za neodmyslitelnou součást ochrany svobody považují Svobodní ochranu vlastnictví.
 
-c) Základem politického systému je pro Svobodné spravedlivá a svobodná soutěž osobností, myšlenek, iniciativ a projektů při respektování morálních a etických zásad.
+c) Základem politického systému je pro Svobodné spravedlivá a svobodná soutěž osobností, myšlenek, iniciativ a projektů při respektování morálních a etických zásad. Cenzura a zprostředkovaná cenzura jsou nepřípustné. Politický nátlak na vytváření atmosféry vedoucí k autocenzuře je neospravedlnitelný.
 
 d) Nadřazenost principu osobní svobody a odpovědnosti nad jinými cíli vede Svobodné k zásadnímu odmítání myšlenkových směrů a hnutí, které ohrožují práva a svobody druhých.
 
