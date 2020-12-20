@@ -224,7 +224,7 @@ Pro určení počtu místopředsedů podle tohoto ustanovení je rozhodující p
 
   e) volí a odvolává třicet členů Republikového výboru,
 
-  f) schvaluje změny stanov,
+  f) schvaluje změny stanov poté, co byly projednány alespoň v jednom ze trojice následujících orgánů strany: Rozhodčí komise, Republikové předsednictvo, Republikový výbor,
 
   g) projednává a schvaluje výroční zprávu předsedy strany,
 
@@ -341,7 +341,7 @@ Místopředsedové zastupují předsedu strany ve stanoveném pořadí. Vykonáv
 
   a) vydává usnesení k závaznému výkladu stanov,
 
-  b) průběžně shromažďuje návrhy na změny stanov,
+  b) průběžně shromažďuje návrhy na změny stanov, projednává je a vydává k nim stanoviska,
 
   c) při projednávání sporných záležitostí vždy vyslechne dotčené osoby a organizační jednotky,
 
