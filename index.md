@@ -84,6 +84,11 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
   f) úmrtím.
 
+5) Členství ve straně se pozastavuje na základě žádosti člena o pozastavení vlastního členství. Žádost podává člen do rukou krajského předsednictva. Pozastavení členství bere na vědomí předseda krajského sdružení nebo pověřený místopředseda a bez zbytečného odkladu o něm informuje Republikovou kancelář. Ten, jehož členství bylo pozastaveno,
+ztrácí přístup do interních systémů a fór strany, nemůže vykonávat funkce, do kterých byl zvolen, hlasovat, volit a být volen do kteréhokoli orgánu strany. Při stanovení volebních a hlasovacích kvór se jeho osoba nezapočítává. Pokud má člen pozastavené členství po dobu celého kalendářního roku, neplatí za tento rok členský příspěvek. Pozastavení
+členství se ruší na základě žádosti člena, jemuž bylo členství pozastaveno, která se podává do rukou krajského předsednictva. Zrušení pozastavení členství bere na vědomí předseda krajského sdružení nebo pověřený místopředseda a bez zbytečného odkladu o něm
+informuje Republikovou kancelář.
+
 6) Zánik členství bere na vědomí příslušné krajské předsednictvo, nestane-li se tak, Republikové předsednictvo. Není-li uvedeno jinak, zaniká členství dnem vzetí na vědomí.
 
 7) Člen má právo:
