@@ -216,7 +216,7 @@ Pro určení počtu místopředsedů podle tohoto ustanovení je rozhodující p
 
     d) volí a odvolává pět členů Volební komise,
 
-    e) volí a odvolává třicet členů Republikového výboru,
+    e) volí a odvolává dvacet členů Republikového výboru,
 
     f) schvaluje změny stanov poté, co byly projednány alespoň v jednom ze trojice následujících orgánů strany: Rozhodčí komise, Republikové předsednictvo, Republikový výbor,
 
