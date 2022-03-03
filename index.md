@@ -24,7 +24,7 @@ d) Nadřazenost principu osobní svobody a odpovědnosti nad jinými cíli vede 
 
 e) Součástí svobody je odpovědnost.
 
-f) Svobodou rozumí Svobodní možnost jednotlivce dělat si za své prostředky a na svém majetku cokoliv, co (nad míru přiměřenou okolnostem) nezasahuje do analogického výkonu svobody jiného. Svoboda velmi úzce souvisí s vlastnickým právem jako možností držet, užívat, požívat plody a nakládat s vlastněnou věcí.
+f) Svobodou rozumí Svobodní  absenci iniciace násilí. Svoboda velmi úzce souvisí s vlastnickým právem jako možností držet, užívat, požívat plody a nakládat s vlastněnou věcí.
 
 ### 2) Tradice
 
