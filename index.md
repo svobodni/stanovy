@@ -146,6 +146,8 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
     c) Republikový a krajský sněm je usnášeníschopný za jakéhokoliv počtu přítomných; na program nelze zařazovat nové body, které nebyly uvedeny na pozvánce. Na republikovém a krajském sněmu se může rozhodovat o procedurálních otázkách nadpoloviční většinou z hlasujících, o zásadních otázkách sněm rozhoduje elektronicky s prodlouženou dobou hlasování; usnesení je přijato, pokud jej podpoří nadpoloviční většina hlasujících. Elektronické hlasování má platnost rozhodnutí sněmu.
 
+    d) Elektronické hlasování, kterého se mohou účastnit všichni členové strany, má platnost rozhodnutí Republikového sněmu, a to i v bodech a-e článku 8, odstavce 5, které má Republikový sněm ve výlučné působnosti. V ostatních bodech odstavce 5 článku 8, které má Republikový sněm ve výlučné působnosti, je možné takové elektronické hlasování provádět jedině v souvislosti s probíhajícím Republikovým sněmem a to v případě, kdy Republikový sněm má tyto body zařazeny na programu.
+
 3) Volby
 
     a) Volby se konají elektronicky (korespondenčně) s prodlouženou dobou hlasování tak, aby bylo umožněno hlasování všem, kdo mají právo hlasovat. Zvoleni jsou ti, kdo získali nejvyšší počet odevzdaných platných hlasů bez ohledu na počet hlasujících. Je-li počet kandidátů menší nebo roven počtu volených, hlasuje se o každém kandidátovi zvlášť „pro návrh“ a „proti návrhu“, v takovém případě je kandidát zvolen, pokud variantu „pro návrh“ podpoří více hlasujících.
