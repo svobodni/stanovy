@@ -22,7 +22,7 @@ d) Nadřazenost principu osobní svobody a odpovědnosti nad jinými cíli vede 
 
 e) Součástí svobody je odpovědnost.
 
-f) Svobodou rozumí Svobodní  absenci iniciace násilí. Svoboda velmi úzce souvisí s vlastnickým právem jako možností držet, užívat, požívat plody a nakládat s vlastněnou věcí.
+f) Svobodou rozumí Svobodní absenci iniciace násilí. Svoboda velmi úzce souvisí s vlastnickým právem jako možností držet, užívat, požívat plody a nakládat s vlastněnou věcí.
 
 ### 2) Tradice
 
