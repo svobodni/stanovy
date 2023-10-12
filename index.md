@@ -280,6 +280,8 @@ Pro určení počtu místopředsedů podle tohoto ustanovení je rozhodující p
 
 1) Republikové předsednictvo sestává z předsedy a čtyř místopředsedů.
 
+    a) Místopředsedové Republikového předsednictva mohou rezignovat na svůj mandát v Republikovém předsednictvu a přitom si ponechat návazný mandát v Republikovém výboru. Volby na takto uvolněnou pozici místopředsedy Republikového předsednictva se vypisují až po vypršení takového mandátu v Republikovém výboru.
+
 2) Republikové předsednictvo:
 
     a) je statutárním a výkonným orgánem strany,
