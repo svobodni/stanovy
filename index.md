@@ -92,7 +92,7 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
     b) svobodně vyjadřovat své názory a obhajovat je, podílet se na projednávání a rozhodování o vnitřních záležitostech strany,
 
-    c) podílet se na utváření politiky strany,
+    c) podílet se na utváření politiky strany a být volen do orgánů strany uvedených v čl. 5 odst. 1),
 
     d) obracet se na jiné členy a orgány strany se svými návrhy, iniciativami, otázkami a připomínkami,
 
