@@ -132,6 +132,50 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
 1) Orgány strany jsou republikový sněm, Republikový výbor, Republikové předsednictvo, Rozhodčí komise, Kontrolní komise, Volební komise, v krajských sdruženích krajský sněm a krajské předsednictvo.
 
+2) Vnitrostranickými funkcemi jsou zpravidla funkce do ve Stanovách uvedených krajských a republikových orgánů, či organizačních jednotek, které jsou definovány vnitřními předpisy strany.
+   
+3) Vznik funkce
+   
+    a)	jmenováním
+   
+    b)	volbou, přičemž v případě funkce do krajských orgánů má právo volit krajský sněm a v případě funkce do republikových orgánů má právo volit republikový sněm
+   
+4)	Délka mandátu je zpravidla dva roky, není-li stanoveno jinak, a počíná dnem vyhlášení výsledků voleb, resp. dnem, kdy končí mandát osobě v této funkci, pokud se o funkci neucházela a neuspěla tatáž osoba, která v den vyhlášení výsledků voleb stejnou funkci zastávala.
+   
+5)	Pravomoci členů zastávajících funkce se řídí interními předpisy strany, pokud nejsou součástí Stanov.
+   
+6)	Pozastavení funkce nastává pouze tehdy, že je členovi na jeho vlastní žádost pozastaveno členství. Délka mandátu se o dobu pozastavení nezvyšuje. Po dobu pozastavení funkce nemá dotčený člen pravomoci vyplývající z funkce.
+    
+7)	Zánik funkce získané jmenováním nastává odvoláním z funkce stejným orgánem, kterým byla funkce přiřazena.
+    
+8)	Zánik funkce získané volbou nastává
+   
+    a)	uplynutím mandátu, 
+
+    b)	v případě úmrtí člena, 
+
+    c)	ukončením členství, 
+
+    d)	neúspěchem ve volbách v případě, že člen, který funkci zastává, kandiduje na tutéž funkci před vypršením svého mandátu a není zvolen. V den vyhlášení výsledků voleb mu tento mandát zaniká. 
+
+    e)	zvolením do funkce neslučitelné s funkcí, kterou člen aktuálně zastává. Funkce mu zaniká dnem vzniku funkce nové. 
+
+    f)	odebráním funkce. Podmínky pro odebrání funkce je popsán v Čl. 5, odst. 9
+
+10)	Odebrání funkce vzniklé volbou
+    
+    a)	návrh na odebrání funkce může podat kterýkoli člen strany; jeho projednání je podmíněno podporou nejméně pěti dalších členů ReV.
+   	
+    b)	návrh na odebrání funkce navrhovatel předkládá ReV a ReP. ReV a ReP jsou povinné o tomto návrhu   rozhodnout na nejbližším jednání. Na jednání obou republikových orgánů mají právo být přítomni navrhovatel i člen navržený na odebrání funkce. Oba mají právo na vyjádření se. Důkazní břemeno nese navrhovatel. 
+   	
+    c)	alespoň jeden z orgánů ReV či ReP musí návrh podpořit, aby mohlo být přistoupeno k následnému kroku (Čl. 5, odst. 9, písm. d). Pokud ani jeden z orgánů návrh nepodpoří, je takový návrh automaticky bez možnosti odvolání zamítnut. O jednáních musí být vyhotoven zápis. V případě, že člen navrhovaný na odebrání funkce zastává funkci v ReP či ReV, hlasování o návrhu se neúčastní a hlasovací kvórum je o jeho hlas sníženo. V případě, že člen navrhující na odebrání funkce zastává funkci v ReP či ReV, hlasování o návrhu se neúčastní a hlasovací kvórum je o jeho hlas sníženo. 
+   	
+    d)	pokud ReV či ReP podpoří návrh na odebrání funkce, je Volební komise povinna na pokyn ReP do tří dnů vypsat volby, ve kterých o odebrání s konečnou platností a bez možnosti odvolání rozhodne sněm ve stejné úrovni, ve které funkce vznikla, tj. pro odebrání funkce v krajském orgánu rozhodne krajský sněm a pro odebrání funkce v republikovém orgánu rozhodne republikový sněm. V obou případech probíhá volba formou „pro návrh/proti návrhu“, přičemž součástí textu doprovázejícího vyhlášení textu musejí být důkazy, předložené při návrhu na odebrání funkce, popř. odkaz, na kterém jsou tyto důkazy dostupné 
+   	
+    e)	hrozí-li nebezpečí z prodlení či zneužití funkce, může být v případě takového člena, je-li návrh podpořen jedním z orgánů dle Čl. 5, odst. 9, písm. c), rozhodnuto i o dočasném pozastavení výkonu práv a povinností z funkce vyplývajících. Takové rozhodnutí má právo učinit ReP a musí tak učinit jednomyslně. V případě, že republikový sněm, resp. krajský sněm rozhodnutí o odebrání funkce zamítne, bude členu, který byl takto krácen na výkonu svých práv vyplývajících z funkce, prodlouženo funkční období o dobu, po kterou mu byl výkon práv pozastaven. 
+   	
+    f)	rozhodnutí o odebrání funkce nabývá účinnosti dnem vyhlášení výsledku volby. 
+
 ## Článek 6 Obecné zásady
 
 1) Orgány strany si schvalují jednací a případně volební řády.
